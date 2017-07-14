@@ -1,0 +1,1062 @@
+"year","month","day","team","opponent","location","teamscore","oppscore","OT"
+2017,2,5,"Air Force","Duke","V",11,10,NA
+2017,2,11,"Air Force","Denver","V",6,14,NA
+2017,2,18,"Air Force","Marist","H",4,10,NA
+2017,2,25,"Air Force","Canisius","N",15,10,NA
+2017,2,26,"Air Force","Cleveland St.","N",16,2,NA
+2017,3,4,"Air Force","Boston U.","V",6,8,NA
+2017,3,11,"Air Force","Detroit Mercy","H",13,8,NA
+2017,3,18,"Air Force","Mercer","V",14,6,NA
+2017,3,25,"Air Force","Jacksonville","H",10,9,1
+2017,3,28,"Air Force","Marquette","V",6,7,NA
+2017,4,1,"Air Force","Bellarmine","H",20,2,NA
+2017,4,8,"Air Force","Furman","V",7,8,NA
+2017,4,15,"Air Force","VMI","V",14,4,NA
+2017,4,22,"Air Force","Richmond","H",9,7,NA
+2017,4,29,"Air Force","High Point","V",16,11,NA
+2017,5,4,"Air Force","Jacksonville","N",11,8,NA
+2017,5,6,"Air Force","Richmond","H",9,6,NA
+2017,5,13,"Air Force","Denver","V",10,17,NA
+2017,2,18,"Albany (NY)","Syracuse","V",9,10,NA
+2017,2,25,"Albany (NY)","Drexel","V",19,8,NA
+2017,3,1,"Albany (NY)","Massachusetts","H",17,8,NA
+2017,3,5,"Albany (NY)","Cornell","V",17,6,NA
+2017,3,18,"Albany (NY)","Vermont","V",17,6,NA
+2017,3,21,"Albany (NY)","Canisius","V",20,11,NA
+2017,3,25,"Albany (NY)","UMass Lowell","H",21,11,NA
+2017,3,29,"Albany (NY)","Harvard","V",15,13,NA
+2017,4,1,"Albany (NY)","Stony Brook","V",19,11,NA
+2017,4,8,"Albany (NY)","UMBC","H",10,5,NA
+2017,4,12,"Albany (NY)","Maryland","H",11,12,NA
+2017,4,19,"Albany (NY)","Binghamton","V",10,4,NA
+2017,4,22,"Albany (NY)","Yale","H",13,12,NA
+2017,4,29,"Albany (NY)","Hartford","H",16,10,NA
+2017,5,4,"Albany (NY)","Stony Brook","H",19,6,NA
+2017,5,6,"Albany (NY)","Binghamton","H",20,8,NA
+2017,5,13,"Albany (NY)","North Carolina","H",15,12,NA
+2017,5,21,"Albany (NY)","Maryland","N",9,18,NA
+2017,2,11,"Army West Point","Massachusetts","V",9,2,NA
+2017,2,18,"Army West Point","Rutgers","V",10,12,NA
+2017,2,20,"Army West Point","VMI","H",20,5,NA
+2017,2,25,"Army West Point","Syracuse","V",14,13,NA
+2017,3,4,"Army West Point","Lafayette","H",14,4,NA
+2017,3,11,"Army West Point","Lehigh","V",6,4,NA
+2017,3,13,"Army West Point","NJIT","H",19,6,NA
+2017,3,18,"Army West Point","Holy Cross","V",10,4,NA
+2017,3,25,"Army West Point","Colgate","H",10,8,NA
+2017,4,1,"Army West Point","Bucknell","V",11,10,NA
+2017,4,8,"Army West Point","Boston U.","H",11,10,NA
+2017,4,15,"Army West Point","Navy","V",6,10,NA
+2017,4,21,"Army West Point","Loyola Maryland","H",6,14,NA
+2017,4,28,"Army West Point","Boston U.","N",10,7,NA
+2017,4,30,"Army West Point","Loyola Maryland","V",4,13,NA
+2017,5,6,"Army West Point","Notre Dame","H",10,9,1
+2017,2,11,"Bellarmine","Robert Morris","V",8,10,NA
+2017,2,18,"Bellarmine","Michigan","H",5,13,NA
+2017,2,25,"Bellarmine","Quinnipiac","V",14,13,NA
+2017,3,3,"Bellarmine","Detroit Mercy","N",10,13,NA
+2017,3,5,"Bellarmine","Ohio St.","N",11,14,NA
+2017,3,11,"Bellarmine","Mt. St. Mary's","H",7,18,NA
+2017,3,18,"Bellarmine","Furman","V",6,19,NA
+2017,3,25,"Bellarmine","VMI","H",13,8,NA
+2017,4,1,"Bellarmine","Air Force","V",2,20,NA
+2017,4,8,"Bellarmine","High Point","H",7,5,NA
+2017,4,15,"Bellarmine","Richmond","H",6,13,NA
+2017,4,22,"Bellarmine","Mercer","V",12,11,NA
+2017,4,29,"Bellarmine","Jacksonville","H",11,17,NA
+2017,2,17,"Binghamton","Colgate","H",11,8,NA
+2017,2,25,"Binghamton","Marist","H",8,11,NA
+2017,3,5,"Binghamton","Hobart and William Smith Colleges","H",12,6,NA
+2017,3,7,"Binghamton","Siena","V",10,5,NA
+2017,3,11,"Binghamton","Delaware","V",13,9,NA
+2017,3,18,"Binghamton","UMass Lowell","V",15,8,NA
+2017,3,25,"Binghamton","Vermont","H",8,5,NA
+2017,3,28,"Binghamton","Canisius","V",11,7,NA
+2017,4,1,"Binghamton","Lafayette","H",14,8,NA
+2017,4,8,"Binghamton","Hartford","H",10,9,NA
+2017,4,15,"Binghamton","UMBC","V",6,7,NA
+2017,4,19,"Binghamton","Albany (NY)","H",4,10,NA
+2017,4,22,"Binghamton","Syracuse","V",8,9,NA
+2017,4,28,"Binghamton","Stony Brook","V",6,5,1
+2017,5,4,"Binghamton","UMBC","N",9,4,NA
+2017,5,6,"Binghamton","Albany (NY)","V",8,20,NA
+2017,2,4,"Boston U.","Providence","V",8,7,2
+2017,2,11,"Boston U.","UMass Lowell","V",18,8,NA
+2017,2,18,"Boston U.","Hartford","V",12,5,NA
+2017,2,25,"Boston U.","Navy","V",8,7,NA
+2017,2,28,"Boston U.","Bryant","H",12,9,NA
+2017,3,4,"Boston U.","Air Force","H",8,6,NA
+2017,3,13,"Boston U.","Colgate","V",18,7,NA
+2017,3,18,"Boston U.","Bucknell","H",6,12,NA
+2017,3,21,"Boston U.","Harvard","H",13,8,NA
+2017,3,25,"Boston U.","Lafayette","H",15,7,NA
+2017,4,1,"Boston U.","Lehigh","V",6,10,NA
+2017,4,8,"Boston U.","Army West Point","V",10,11,NA
+2017,4,15,"Boston U.","Loyola Maryland","H",12,11,1
+2017,4,21,"Boston U.","Holy Cross","H",12,11,1
+2017,4,25,"Boston U.","Lehigh","H",10,4,NA
+2017,4,28,"Boston U.","Army West Point","N",7,10,NA
+2017,5,7,"Boston U.","Duke","N",8,18,NA
+2017,2,19,"Brown","Quinnipiac","H",25,9,NA
+2017,2,25,"Brown","Stony Brook","H",17,25,NA
+2017,3,4,"Brown","Rutgers","V",11,13,NA
+2017,3,7,"Brown","Villanova","H",15,17,NA
+2017,3,18,"Brown","Harvard","H",13,8,NA
+2017,3,21,"Brown","Holy Cross","H",17,14,NA
+2017,3,25,"Brown","Massachusetts","V",10,9,1
+2017,4,1,"Brown","Princeton","V",11,21,NA
+2017,4,8,"Brown","Penn","H",11,8,NA
+2017,4,15,"Brown","Yale","V",12,18,NA
+2017,4,18,"Brown","Providence","V",13,12,2
+2017,4,22,"Brown","Cornell","H",13,10,NA
+2017,4,25,"Brown","Bryant","V",14,12,NA
+2017,4,29,"Brown","Dartmouth","V",20,5,NA
+2017,5,5,"Brown","Princeton","N",17,15,NA
+2017,5,7,"Brown","Yale","V",9,10,NA
+2017,2,4,"Bryant","Manhattan","V",17,10,NA
+2017,2,11,"Bryant","Bucknell","V",8,9,NA
+2017,2,18,"Bryant","Providence","H",6,7,NA
+2017,2,25,"Bryant","Hartford","H",17,11,NA
+2017,2,28,"Bryant","Boston U.","V",9,12,NA
+2017,3,5,"Bryant","Yale","V",9,6,NA
+2017,3,10,"Bryant","Drexel","V",5,7,NA
+2017,3,13,"Bryant","Siena","H",18,13,NA
+2017,3,18,"Bryant","Mt. St. Mary's","V",5,6,NA
+2017,3,25,"Bryant","Saint Joseph's","H",8,7,NA
+2017,4,1,"Bryant","Wagner","V",8,1,NA
+2017,4,8,"Bryant","Sacred Heart","H",13,7,NA
+2017,4,15,"Bryant","Hobart and William Smith Colleges","V",6,13,NA
+2017,4,22,"Bryant","Robert Morris","H",13,5,NA
+2017,4,25,"Bryant","Brown","H",12,14,NA
+2017,5,4,"Bryant","Robert Morris","N",12,3,NA
+2017,5,6,"Bryant","Hobart and William Smith Colleges","V",5,4,NA
+2017,5,10,"Bryant","Monmouth","H",10,7,NA
+2017,5,14,"Bryant","Maryland","V",10,13,NA
+2017,2,4,"Bucknell","Delaware","V",14,13,NA
+2017,2,11,"Bucknell","Bryant","H",9,8,NA
+2017,2,18,"Bucknell","Fairfield","H",12,13,NA
+2017,2,25,"Bucknell","Colgate","H",10,15,NA
+2017,3,4,"Bucknell","Navy","V",7,13,NA
+2017,3,11,"Bucknell","Holy Cross","H",8,10,NA
+2017,3,18,"Bucknell","Boston U.","V",12,6,NA
+2017,3,21,"Bucknell","Villanova","V",8,13,NA
+2017,3,25,"Bucknell","Loyola Maryland","H",9,8,2
+2017,4,1,"Bucknell","Army West Point","H",10,11,NA
+2017,4,8,"Bucknell","Mt. St. Mary's","V",10,12,NA
+2017,4,15,"Bucknell","Lafayette","V",11,7,NA
+2017,4,21,"Bucknell","Lehigh","V",6,9,NA
+2017,2,18,"Canisius","Dartmouth","H",13,8,NA
+2017,2,25,"Canisius","Air Force","N",10,15,NA
+2017,2,26,"Canisius","Denver","V",0,12,NA
+2017,3,4,"Canisius","Cleveland St.","V",17,7,NA
+2017,3,14,"Canisius","Hobart and William Smith Colleges","V",11,18,NA
+2017,3,18,"Canisius","Marist","H",17,6,NA
+2017,3,21,"Canisius","Albany (NY)","H",11,20,NA
+2017,3,25,"Canisius","Manhattan","V",12,10,NA
+2017,3,28,"Canisius","Binghamton","H",7,11,NA
+2017,4,8,"Canisius","Detroit Mercy","V",11,5,NA
+2017,4,15,"Canisius","Siena","H",10,11,NA
+2017,4,18,"Canisius","Robert Morris","V",7,12,NA
+2017,4,21,"Canisius","Monmouth","V",6,11,NA
+2017,4,28,"Canisius","Quinnipiac","H",10,6,NA
+2017,5,5,"Canisius","Marist","V",5,8,NA
+2017,2,4,"Cleveland St.","Michigan","H",8,13,NA
+2017,2,12,"Cleveland St.","Duke","V",7,22,NA
+2017,2,18,"Cleveland St.","Baldwin Wallace","H",9,2,NA
+2017,2,19,"Cleveland St.","John Carroll","H",15,8,NA
+2017,2,25,"Cleveland St.","Denver","V",6,19,NA
+2017,2,26,"Cleveland St.","Air Force","N",2,16,NA
+2017,3,4,"Cleveland St.","Canisius","H",7,17,NA
+2017,3,11,"Cleveland St.","Ohio St.","V",4,12,NA
+2017,3,16,"Cleveland St.","Wittenberg","V",18,10,NA
+2017,3,25,"Cleveland St.","Penn St.","V",8,15,NA
+2017,4,4,"Cleveland St.","Virginia","V",7,20,NA
+2017,4,15,"Cleveland St.","Walsh","H",13,7,NA
+2017,4,22,"Cleveland St.","Sacred Heart","V",9,18,NA
+2017,4,29,"Cleveland St.","Detroit Mercy","H",13,6,NA
+2017,2,11,"Colgate","Marist","H",8,12,NA
+2017,2,17,"Colgate","Binghamton","V",8,11,NA
+2017,2,25,"Colgate","Bucknell","V",15,10,NA
+2017,3,5,"Colgate","Lehigh","H",5,11,NA
+2017,3,8,"Colgate","Hobart and William Smith Colleges","H",13,6,NA
+2017,3,13,"Colgate","Boston U.","H",7,18,NA
+2017,3,19,"Colgate","Siena","H",16,11,NA
+2017,3,21,"Colgate","Cornell","V",6,15,NA
+2017,3,25,"Colgate","Army West Point","V",8,10,NA
+2017,4,1,"Colgate","Loyola Maryland","V",5,12,NA
+2017,4,8,"Colgate","Navy","H",10,4,NA
+2017,4,15,"Colgate","Holy Cross","V",11,12,NA
+2017,4,21,"Colgate","Lafayette","H",11,6,NA
+2017,5,6,"Colgate","Syracuse","H",9,11,NA
+2017,2,18,"Cornell","Penn St.","V",10,20,NA
+2017,2,25,"Cornell","Hobart and William Smith Colleges","V",8,16,NA
+2017,3,5,"Cornell","Albany (NY)","H",6,17,NA
+2017,3,11,"Cornell","Virginia","N",18,19,1
+2017,3,18,"Cornell","Yale","V",8,17,NA
+2017,3,21,"Cornell","Colgate","H",15,6,NA
+2017,3,25,"Cornell","Penn","H",9,10,NA
+2017,4,1,"Cornell","Dartmouth","H",14,5,NA
+2017,4,8,"Cornell","Harvard","V",12,9,NA
+2017,4,11,"Cornell","Syracuse","V",8,15,NA
+2017,4,15,"Cornell","Lehigh","H",16,11,NA
+2017,4,22,"Cornell","Brown","V",10,13,NA
+2017,4,29,"Cornell","Princeton","H",18,17,NA
+2017,2,18,"Dartmouth","Canisius","V",8,13,NA
+2017,2,25,"Dartmouth","Sacred Heart","H",8,15,NA
+2017,2,28,"Dartmouth","Vermont","H",11,9,NA
+2017,3,4,"Dartmouth","Wagner","V",6,7,2
+2017,3,18,"Dartmouth","North Carolina","V",6,17,NA
+2017,3,21,"Dartmouth","Navy","V",6,11,NA
+2017,3,25,"Dartmouth","Harvard","H",7,14,NA
+2017,4,1,"Dartmouth","Cornell","V",5,14,NA
+2017,4,8,"Dartmouth","Yale","V",6,13,NA
+2017,4,11,"Dartmouth","UMass Lowell","H",14,8,NA
+2017,4,15,"Dartmouth","Princeton","H",6,16,NA
+2017,4,22,"Dartmouth","Penn","V",4,9,NA
+2017,4,29,"Dartmouth","Brown","H",5,20,NA
+2017,2,4,"Delaware","Bucknell","H",13,14,NA
+2017,2,11,"Delaware","Mt. St. Mary's","V",18,5,NA
+2017,2,18,"Delaware","Navy","H",5,11,NA
+2017,2,25,"Delaware","Monmouth","H",11,10,1
+2017,2,28,"Delaware","VMI","V",15,9,NA
+2017,3,4,"Delaware","Villanova","V",13,10,NA
+2017,3,7,"Delaware","Manhattan","H",12,9,NA
+2017,3,11,"Delaware","Binghamton","H",9,13,NA
+2017,3,18,"Delaware","Saint Joseph's","H",12,7,NA
+2017,3,25,"Delaware","Rutgers","H",13,9,NA
+2017,4,1,"Delaware","Massachusetts","V",6,9,NA
+2017,4,8,"Delaware","Hofstra","H",9,11,NA
+2017,4,15,"Delaware","Towson","H",6,10,NA
+2017,4,22,"Delaware","Drexel","V",9,14,NA
+2017,4,28,"Delaware","Fairfield","V",7,11,NA
+2017,2,11,"Denver","Air Force","H",14,6,NA
+2017,2,18,"Denver","Duke","H",14,9,NA
+2017,2,25,"Denver","Cleveland St.","H",19,6,NA
+2017,2,26,"Denver","Canisius","H",12,0,NA
+2017,3,4,"Denver","North Carolina","H",9,13,NA
+2017,3,12,"Denver","Notre Dame","H",11,10,NA
+2017,3,19,"Denver","Ohio St.","V",7,16,NA
+2017,3,25,"Denver","Towson","V",12,11,NA
+2017,4,1,"Denver","Georgetown","H",20,11,NA
+2017,4,9,"Denver","Villanova","H",16,11,NA
+2017,4,15,"Denver","St. John's (NY)","V",18,12,NA
+2017,4,22,"Denver","Providence","H",12,2,NA
+2017,4,29,"Denver","Marquette","V",16,8,NA
+2017,5,4,"Denver","Marquette","N",8,11,NA
+2017,5,13,"Denver","Air Force","H",17,10,NA
+2017,5,20,"Denver","Notre Dame","N",16,4,NA
+2017,2,11,"Detroit Mercy","Ohio St.","V",8,14,NA
+2017,2,15,"Detroit Mercy","Michigan","H",10,15,NA
+2017,2,18,"Detroit Mercy","Mercer","N",8,10,NA
+2017,2,23,"Detroit Mercy","Jacksonville","H",12,11,NA
+2017,2,25,"Detroit Mercy","Robert Morris","V",6,15,NA
+2017,3,3,"Detroit Mercy","Bellarmine","N",13,10,NA
+2017,3,5,"Detroit Mercy","Marquette","V",6,8,NA
+2017,3,11,"Detroit Mercy","Air Force","V",8,13,NA
+2017,3,18,"Detroit Mercy","Manhattan","H",14,11,NA
+2017,3,26,"Detroit Mercy","Quinnipiac","V",8,6,NA
+2017,4,1,"Detroit Mercy","Siena","V",10,6,NA
+2017,4,8,"Detroit Mercy","Canisius","H",5,11,NA
+2017,4,15,"Detroit Mercy","Monmouth","H",8,11,NA
+2017,4,22,"Detroit Mercy","Marist","V",6,7,NA
+2017,4,29,"Detroit Mercy","Cleveland St.","V",6,13,NA
+2017,5,5,"Detroit Mercy","Monmouth","N",7,11,NA
+2017,2,18,"Drexel","Virginia","V",14,18,NA
+2017,2,25,"Drexel","Albany (NY)","H",8,19,NA
+2017,2,28,"Drexel","Villanova","H",13,15,NA
+2017,3,4,"Drexel","Marist","V",7,11,NA
+2017,3,10,"Drexel","Bryant","H",7,5,NA
+2017,3,12,"Drexel","Saint Joseph's","H",12,8,NA
+2017,3,18,"Drexel","St. John's (NY)","V",9,7,NA
+2017,3,26,"Drexel","Providence","V",8,9,1
+2017,4,1,"Drexel","Towson","H",7,8,NA
+2017,4,8,"Drexel","Fairfield","H",13,12,NA
+2017,4,15,"Drexel","Hofstra","V",13,12,NA
+2017,4,22,"Drexel","Delaware","H",14,9,NA
+2017,4,28,"Drexel","Massachusetts","V",8,14,NA
+2017,5,4,"Drexel","Towson","V",4,8,NA
+2017,2,5,"Duke","Air Force","H",10,11,NA
+2017,2,10,"Duke","High Point","H",10,5,NA
+2017,2,12,"Duke","Cleveland St.","H",22,7,NA
+2017,2,18,"Duke","Denver","V",9,14,NA
+2017,2,25,"Duke","Saint Joseph's","H",16,3,NA
+2017,3,5,"Duke","Richmond","V",9,8,NA
+2017,3,11,"Duke","Loyola Maryland","H",15,7,NA
+2017,3,13,"Duke","Jacksonville","H",13,6,NA
+2017,3,18,"Duke","Georgetown","V",12,7,NA
+2017,3,25,"Duke","Syracuse","V",11,12,1
+2017,4,2,"Duke","North Carolina","V",12,8,NA
+2017,4,8,"Duke","Notre Dame","H",11,8,NA
+2017,4,15,"Duke","Virginia","H",20,11,NA
+2017,4,22,"Duke","Marquette","V",11,7,NA
+2017,4,28,"Duke","Notre Dame","H",6,7,NA
+2017,5,7,"Duke","Boston U.","N",18,8,NA
+2017,5,13,"Duke","Johns Hopkins","V",19,6,NA
+2017,5,20,"Duke","Ohio St.","N",11,16,NA
+2017,2,11,"Fairfield","Richmond","V",3,15,NA
+2017,2,18,"Fairfield","Bucknell","V",13,12,NA
+2017,2,25,"Fairfield","Rutgers","H",3,8,NA
+2017,2,28,"Fairfield","UMass Lowell","V",8,7,NA
+2017,3,4,"Fairfield","Stony Brook","V",6,9,NA
+2017,3,11,"Fairfield","Yale","V",10,11,2
+2017,3,17,"Fairfield","Penn St.","V",8,9,NA
+2017,3,21,"Fairfield","NJIT","H",13,6,NA
+2017,3,25,"Fairfield","Villanova","H",9,18,NA
+2017,4,1,"Fairfield","Hofstra","H",6,10,NA
+2017,4,8,"Fairfield","Drexel","V",12,13,NA
+2017,4,15,"Fairfield","Massachusetts","V",8,12,NA
+2017,4,22,"Fairfield","Towson","H",9,8,NA
+2017,4,28,"Fairfield","Delaware","H",11,7,NA
+2017,2,2,"Furman","Vermont","H",12,13,1
+2017,2,5,"Furman","Ohio St.","V",6,12,NA
+2017,2,11,"Furman","North Carolina","H",3,7,NA
+2017,2,18,"Furman","Sacred Heart","N",8,9,NA
+2017,2,26,"Furman","Mt. St. Mary's","V",14,7,NA
+2017,3,4,"Furman","Michigan","H",5,7,NA
+2017,3,7,"Furman","Penn St.","V",10,12,NA
+2017,3,18,"Furman","Bellarmine","H",19,6,NA
+2017,3,25,"Furman","Mercer","H",11,10,NA
+2017,4,1,"Furman","Jacksonville","V",15,9,NA
+2017,4,8,"Furman","Air Force","H",8,7,NA
+2017,4,15,"Furman","High Point","V",13,8,NA
+2017,4,22,"Furman","VMI","H",18,3,NA
+2017,4,29,"Furman","Richmond","V",4,13,NA
+2017,5,4,"Furman","Richmond","V",6,13,NA
+2017,2,14,"Georgetown","High Point","V",3,9,NA
+2017,2,18,"Georgetown","Notre Dame","N",10,16,NA
+2017,2,25,"Georgetown","Towson","H",10,11,NA
+2017,3,4,"Georgetown","Hofstra","H",9,11,NA
+2017,3,7,"Georgetown","Robert Morris","H",12,7,NA
+2017,3,11,"Georgetown","Hobart and William Smith Colleges","V",16,6,NA
+2017,3,18,"Georgetown","Duke","H",7,12,NA
+2017,3,22,"Georgetown","Loyola Maryland","V",10,11,NA
+2017,3,25,"Georgetown","Marquette","H",10,11,NA
+2017,4,1,"Georgetown","Denver","V",11,20,NA
+2017,4,8,"Georgetown","Providence","V",7,13,NA
+2017,4,15,"Georgetown","Villanova","H",12,17,NA
+2017,4,18,"Georgetown","Mt. St. Mary's","V",11,9,NA
+2017,4,29,"Georgetown","St. John's (NY)","H",14,4,NA
+2017,2,17,"Hampton","Roberts Wesleyan","H",8,20,NA
+2017,2,25,"Hampton","Dist. Columbia","H",15,19,NA
+2017,3,4,"Hampton","Greensboro","H",7,5,NA
+2017,3,10,"Hampton","Wagner","V",3,10,NA
+2017,3,25,"Hampton","Ohio Valley","V",6,11,NA
+2017,4,1,"Hampton","VMI","H",1,14,NA
+2017,4,8,"Hampton","St. Thomas Aquinas","V",7,13,NA
+2017,4,15,"Hampton","NJIT","H",3,17,NA
+2017,2,18,"Hartford","Boston U.","H",5,12,NA
+2017,2,25,"Hartford","Bryant","V",11,17,NA
+2017,2,28,"Hartford","Manhattan","H",13,14,2
+2017,3,4,"Hartford","Jacksonville","H",15,3,NA
+2017,3,11,"Hartford","Quinnipiac","V",11,9,NA
+2017,3,18,"Hartford","Massachusetts","H",10,12,NA
+2017,3,21,"Hartford","Marist","H",9,3,NA
+2017,3,26,"Hartford","Stony Brook","H",9,13,NA
+2017,4,1,"Hartford","Vermont","V",15,13,NA
+2017,4,8,"Hartford","Binghamton","V",9,10,NA
+2017,4,15,"Hartford","UMass Lowell","H",11,12,NA
+2017,4,18,"Hartford","Sacred Heart","H",14,12,NA
+2017,4,22,"Hartford","UMBC","H",13,8,NA
+2017,4,29,"Hartford","Albany (NY)","V",10,16,NA
+2017,2,18,"Harvard","UMass Lowell","V",14,9,NA
+2017,2,21,"Harvard","Holy Cross","V",12,9,NA
+2017,2,25,"Harvard","Massachusetts","H",11,7,NA
+2017,3,4,"Harvard","Vermont","H",13,10,NA
+2017,3,11,"Harvard","Penn St.","H",12,15,NA
+2017,3,18,"Harvard","Brown","V",8,13,NA
+2017,3,21,"Harvard","Boston U.","V",8,13,NA
+2017,3,25,"Harvard","Dartmouth","V",14,7,NA
+2017,3,29,"Harvard","Albany (NY)","H",13,15,NA
+2017,4,8,"Harvard","Cornell","H",9,12,NA
+2017,4,15,"Harvard","Penn","H",10,14,NA
+2017,4,22,"Harvard","Princeton","V",9,12,NA
+2017,4,29,"Harvard","Yale","H",9,8,NA
+2017,2,10,"High Point","Duke","V",5,10,NA
+2017,2,14,"High Point","Georgetown","H",9,3,NA
+2017,2,18,"High Point","Maryland","V",5,19,NA
+2017,2,25,"High Point","St. John's (NY)","H",15,6,NA
+2017,3,1,"High Point","Virginia","V",12,18,NA
+2017,3,5,"High Point","Robert Morris","H",7,9,NA
+2017,3,11,"High Point","Providence","V",8,17,NA
+2017,3,17,"High Point","VMI","V",11,5,NA
+2017,3,25,"High Point","Richmond","H",4,12,NA
+2017,4,1,"High Point","Mercer","V",12,13,1
+2017,4,8,"High Point","Bellarmine","V",5,7,NA
+2017,4,15,"High Point","Furman","H",8,13,NA
+2017,4,22,"High Point","Jacksonville","V",13,9,NA
+2017,4,29,"High Point","Air Force","H",11,16,NA
+2017,2,11,"Hobart and William Smith Colleges","Penn St.","H",15,21,NA
+2017,2,18,"Hobart and William Smith Colleges","Siena","H",16,15,NA
+2017,2,25,"Hobart and William Smith Colleges","Cornell","H",16,8,NA
+2017,3,5,"Hobart and William Smith Colleges","Binghamton","V",6,12,NA
+2017,3,8,"Hobart and William Smith Colleges","Colgate","V",6,13,NA
+2017,3,11,"Hobart and William Smith Colleges","Georgetown","H",6,16,NA
+2017,3,14,"Hobart and William Smith Colleges","Canisius","H",18,11,NA
+2017,3,18,"Hobart and William Smith Colleges","Wagner","H",17,5,NA
+2017,3,25,"Hobart and William Smith Colleges","Sacred Heart","V",7,8,NA
+2017,4,5,"Hobart and William Smith Colleges","Syracuse","H",11,17,NA
+2017,4,8,"Hobart and William Smith Colleges","Saint Joseph's","V",8,7,1
+2017,4,15,"Hobart and William Smith Colleges","Bryant","H",13,6,NA
+2017,4,22,"Hobart and William Smith Colleges","Mt. St. Mary's","H",15,8,NA
+2017,4,29,"Hobart and William Smith Colleges","Robert Morris","V",18,17,NA
+2017,5,4,"Hobart and William Smith Colleges","Sacred Heart","H",15,9,NA
+2017,5,6,"Hobart and William Smith Colleges","Bryant","H",4,5,NA
+2017,2,18,"Hofstra","Monmouth","H",11,9,NA
+2017,2,25,"Hofstra","Princeton","V",10,8,NA
+2017,2,28,"Hofstra","NJIT","H",20,4,NA
+2017,3,4,"Hofstra","Georgetown","V",11,9,NA
+2017,3,11,"Hofstra","North Carolina","V",11,9,NA
+2017,3,18,"Hofstra","Providence","H",11,10,NA
+2017,3,21,"Hofstra","Stony Brook","H",11,9,NA
+2017,3,25,"Hofstra","St. John's (NY)","H",9,6,NA
+2017,4,1,"Hofstra","Fairfield","V",10,6,NA
+2017,4,8,"Hofstra","Delaware","V",11,9,NA
+2017,4,15,"Hofstra","Drexel","H",12,13,NA
+2017,4,22,"Hofstra","Massachusetts","H",15,8,NA
+2017,4,29,"Hofstra","Towson","V",8,10,NA
+2017,5,4,"Hofstra","Massachusetts","N",12,13,NA
+2017,2,11,"Holy Cross","Providence","H",4,10,NA
+2017,2,18,"Holy Cross","Vermont","V",8,14,NA
+2017,2,21,"Holy Cross","Harvard","H",9,12,NA
+2017,2,25,"Holy Cross","Lehigh","H",14,8,NA
+2017,3,4,"Holy Cross","Loyola Maryland","V",9,16,NA
+2017,3,11,"Holy Cross","Bucknell","V",10,8,NA
+2017,3,18,"Holy Cross","Army West Point","H",4,10,NA
+2017,3,21,"Holy Cross","Brown","V",14,17,NA
+2017,3,25,"Holy Cross","Marist","V",5,8,NA
+2017,4,2,"Holy Cross","Navy","H",4,11,NA
+2017,4,8,"Holy Cross","Lafayette","V",10,5,NA
+2017,4,15,"Holy Cross","Colgate","H",12,11,NA
+2017,4,21,"Holy Cross","Boston U.","V",11,12,1
+2017,4,25,"Holy Cross","Navy","V",11,7,NA
+2017,4,28,"Holy Cross","Loyola Maryland","V",3,13,NA
+2017,2,11,"Jacksonville","Lehigh","H",12,13,NA
+2017,2,18,"Jacksonville","Marquette","H",1,17,NA
+2017,2,23,"Jacksonville","Detroit Mercy","V",11,12,NA
+2017,2,25,"Jacksonville","Ohio St.","V",8,16,NA
+2017,3,4,"Jacksonville","Hartford","V",3,15,NA
+2017,3,13,"Jacksonville","Duke","V",6,13,NA
+2017,3,18,"Jacksonville","Richmond","H",6,13,NA
+2017,3,25,"Jacksonville","Air Force","V",9,10,1
+2017,4,1,"Jacksonville","Furman","H",9,15,NA
+2017,4,8,"Jacksonville","VMI","V",16,10,NA
+2017,4,15,"Jacksonville","Mercer","V",13,7,NA
+2017,4,22,"Jacksonville","High Point","H",9,13,NA
+2017,4,29,"Jacksonville","Bellarmine","V",17,11,NA
+2017,5,4,"Jacksonville","Air Force","N",8,11,NA
+2017,2,7,"Johns Hopkins","Navy","H",15,8,NA
+2017,2,11,"Johns Hopkins","UMBC","H",15,5,NA
+2017,2,18,"Johns Hopkins","Loyola Maryland","H",14,13,1
+2017,2,25,"Johns Hopkins","North Carolina","V",13,5,NA
+2017,3,3,"Johns Hopkins","Princeton","V",7,18,NA
+2017,3,11,"Johns Hopkins","Towson","V",8,13,NA
+2017,3,18,"Johns Hopkins","Syracuse","H",7,8,1
+2017,3,25,"Johns Hopkins","Virginia","H",18,17,1
+2017,3,31,"Johns Hopkins","Rutgers","H",12,6,NA
+2017,4,9,"Johns Hopkins","Ohio St.","V",9,13,NA
+2017,4,15,"Johns Hopkins","Penn St.","H",13,11,NA
+2017,4,22,"Johns Hopkins","Michigan","H",19,9,NA
+2017,4,29,"Johns Hopkins","Maryland","V",5,12,NA
+2017,5,4,"Johns Hopkins","Ohio St.","V",13,15,NA
+2017,5,13,"Johns Hopkins","Duke","H",6,19,NA
+2017,2,11,"Lafayette","Michigan","V",6,17,NA
+2017,2,17,"Lafayette","Wagner","V",8,9,NA
+2017,2,25,"Lafayette","Loyola Maryland","H",5,18,NA
+2017,2,28,"Lafayette","Sacred Heart","V",10,14,NA
+2017,3,4,"Lafayette","Army West Point","V",4,14,NA
+2017,3,11,"Lafayette","Navy","H",9,8,NA
+2017,3,18,"Lafayette","Lehigh","V",7,15,NA
+2017,3,25,"Lafayette","Boston U.","V",7,15,NA
+2017,4,1,"Lafayette","Binghamton","V",8,14,NA
+2017,4,4,"Lafayette","Monmouth","H",8,9,NA
+2017,4,8,"Lafayette","Holy Cross","H",5,10,NA
+2017,4,11,"Lafayette","NJIT","H",12,11,NA
+2017,4,15,"Lafayette","Bucknell","H",7,11,NA
+2017,4,21,"Lafayette","Colgate","V",6,11,NA
+2017,2,4,"Lehigh","NJIT","H",15,5,NA
+2017,2,11,"Lehigh","Jacksonville","V",13,12,NA
+2017,2,18,"Lehigh","North Carolina","V",8,15,NA
+2017,2,25,"Lehigh","Holy Cross","V",8,14,NA
+2017,3,5,"Lehigh","Colgate","V",11,5,NA
+2017,3,11,"Lehigh","Army West Point","H",4,6,NA
+2017,3,18,"Lehigh","Lafayette","H",15,7,NA
+2017,3,25,"Lehigh","Navy","V",9,14,NA
+2017,4,1,"Lehigh","Boston U.","H",10,6,NA
+2017,4,8,"Lehigh","Loyola Maryland","V",5,14,NA
+2017,4,11,"Lehigh","Princeton","H",15,10,NA
+2017,4,15,"Lehigh","Cornell","V",11,16,NA
+2017,4,21,"Lehigh","Bucknell","H",9,6,NA
+2017,4,25,"Lehigh","Boston U.","V",4,10,NA
+2017,2,11,"Loyola Maryland","Virginia","H",15,16,NA
+2017,2,18,"Loyola Maryland","Johns Hopkins","V",13,14,1
+2017,2,25,"Loyola Maryland","Lafayette","V",18,5,NA
+2017,3,1,"Loyola Maryland","Towson","V",11,7,NA
+2017,3,4,"Loyola Maryland","Holy Cross","H",16,9,NA
+2017,3,11,"Loyola Maryland","Duke","V",7,15,NA
+2017,3,18,"Loyola Maryland","Navy","H",18,7,NA
+2017,3,22,"Loyola Maryland","Georgetown","H",11,10,NA
+2017,3,25,"Loyola Maryland","Bucknell","V",8,9,2
+2017,4,1,"Loyola Maryland","Colgate","H",12,5,NA
+2017,4,8,"Loyola Maryland","Lehigh","H",14,5,NA
+2017,4,15,"Loyola Maryland","Boston U.","V",11,12,1
+2017,4,21,"Loyola Maryland","Army West Point","V",14,6,NA
+2017,4,28,"Loyola Maryland","Holy Cross","H",13,3,NA
+2017,4,30,"Loyola Maryland","Army West Point","H",13,4,NA
+2017,5,14,"Loyola Maryland","Ohio St.","V",4,7,NA
+2017,2,4,"Manhattan","Bryant","H",10,17,NA
+2017,2,11,"Manhattan","Wagner","H",14,13,3
+2017,2,18,"Manhattan","Robert Morris","H",8,18,NA
+2017,2,28,"Manhattan","Hartford","V",14,13,2
+2017,3,4,"Manhattan","Saint Joseph's","H",6,18,NA
+2017,3,7,"Manhattan","Delaware","V",9,12,NA
+2017,3,11,"Manhattan","UMass Lowell","H",6,13,NA
+2017,3,18,"Manhattan","Detroit Mercy","V",11,14,NA
+2017,3,25,"Manhattan","Canisius","H",10,12,NA
+2017,4,1,"Manhattan","Quinnipiac","H",6,12,NA
+2017,4,8,"Manhattan","Siena","V",6,16,NA
+2017,4,15,"Manhattan","Marist","H",6,16,NA
+2017,4,22,"Manhattan","NJIT","H",9,4,NA
+2017,4,28,"Manhattan","Monmouth","V",3,7,NA
+2017,2,11,"Marist","Colgate","V",12,8,NA
+2017,2,18,"Marist","Air Force","V",10,4,NA
+2017,2,21,"Marist","Princeton","V",6,10,NA
+2017,2,25,"Marist","Binghamton","V",11,8,NA
+2017,3,4,"Marist","Drexel","H",11,7,NA
+2017,3,11,"Marist","UMBC","H",4,6,NA
+2017,3,18,"Marist","Canisius","V",6,17,NA
+2017,3,21,"Marist","Hartford","V",3,9,NA
+2017,3,25,"Marist","Holy Cross","H",8,5,NA
+2017,4,1,"Marist","Monmouth","H",2,7,NA
+2017,4,8,"Marist","Quinnipiac","V",9,8,NA
+2017,4,15,"Marist","Manhattan","V",16,6,NA
+2017,4,22,"Marist","Detroit Mercy","H",7,6,NA
+2017,4,29,"Marist","Siena","H",6,5,NA
+2017,5,5,"Marist","Canisius","H",8,5,NA
+2017,5,7,"Marist","Monmouth","H",8,9,NA
+2017,2,18,"Marquette","Jacksonville","V",17,1,NA
+2017,2,25,"Marquette","Richmond","V",2,9,NA
+2017,3,3,"Marquette","Ohio St.","H",6,12,NA
+2017,3,5,"Marquette","Detroit Mercy","H",8,6,NA
+2017,3,11,"Marquette","Robert Morris","V",14,7,NA
+2017,3,25,"Marquette","Georgetown","V",11,10,NA
+2017,3,28,"Marquette","Air Force","H",7,6,NA
+2017,4,1,"Marquette","Villanova","V",9,10,1
+2017,4,8,"Marquette","St. John's (NY)","H",17,9,NA
+2017,4,11,"Marquette","Notre Dame","V",10,11,NA
+2017,4,15,"Marquette","Providence","V",7,9,NA
+2017,4,22,"Marquette","Duke","H",7,11,NA
+2017,4,29,"Marquette","Denver","H",8,16,NA
+2017,5,4,"Marquette","Denver","N",11,8,NA
+2017,5,6,"Marquette","Providence","V",10,9,NA
+2017,5,14,"Marquette","Notre Dame","V",9,15,NA
+2017,2,11,"Maryland","Navy","V",15,12,NA
+2017,2,14,"Maryland","Saint Joseph's","V",16,8,NA
+2017,2,18,"Maryland","High Point","H",19,5,NA
+2017,2,25,"Maryland","Yale","H",12,11,NA
+2017,3,4,"Maryland","Notre Dame","V",4,5,NA
+2017,3,18,"Maryland","Villanova","H",12,13,1
+2017,3,25,"Maryland","North Carolina","V",15,7,NA
+2017,4,1,"Maryland","Michigan","H",15,8,NA
+2017,4,8,"Maryland","Penn St.","H",15,11,NA
+2017,4,12,"Maryland","Albany (NY)","V",12,11,NA
+2017,4,16,"Maryland","Rutgers","V",13,12,3
+2017,4,22,"Maryland","Ohio St.","V",10,11,1
+2017,4,29,"Maryland","Johns Hopkins","H",12,5,NA
+2017,5,4,"Maryland","Penn St.","N",8,6,NA
+2017,5,6,"Maryland","Ohio St.","V",10,9,NA
+2017,5,14,"Maryland","Bryant","H",13,10,NA
+2017,5,21,"Maryland","Albany (NY)","N",18,9,NA
+2017,2,11,"Massachusetts","Army West Point","H",2,9,NA
+2017,2,18,"Massachusetts","Ohio St.","V",7,8,NA
+2017,2,25,"Massachusetts","Harvard","V",7,11,NA
+2017,3,1,"Massachusetts","Albany (NY)","V",8,17,NA
+2017,3,7,"Massachusetts","Yale","V",11,9,NA
+2017,3,15,"Massachusetts","UMass Lowell","H",10,8,NA
+2017,3,18,"Massachusetts","Hartford","V",12,10,NA
+2017,3,25,"Massachusetts","Brown","H",9,10,1
+2017,4,1,"Massachusetts","Delaware","H",9,6,NA
+2017,4,8,"Massachusetts","Towson","V",8,11,NA
+2017,4,15,"Massachusetts","Fairfield","H",12,8,NA
+2017,4,22,"Massachusetts","Hofstra","V",8,15,NA
+2017,4,28,"Massachusetts","Drexel","H",14,8,NA
+2017,5,4,"Massachusetts","Hofstra","N",13,12,NA
+2017,5,6,"Massachusetts","Towson","V",4,9,NA
+2017,2,4,"Mercer","Vermont","H",12,13,1
+2017,2,18,"Mercer","Detroit Mercy","N",10,8,NA
+2017,2,25,"Mercer","UMBC","V",4,15,NA
+2017,3,2,"Mercer","Michigan","H",6,11,NA
+2017,3,10,"Mercer","NJIT","V",10,7,NA
+2017,3,12,"Mercer","Wagner","V",6,5,NA
+2017,3,18,"Mercer","Air Force","H",6,14,NA
+2017,3,25,"Mercer","Furman","V",10,11,NA
+2017,4,1,"Mercer","High Point","H",13,12,1
+2017,4,8,"Mercer","Richmond","V",9,12,NA
+2017,4,15,"Mercer","Jacksonville","H",7,13,NA
+2017,4,22,"Mercer","Bellarmine","H",11,12,NA
+2017,4,29,"Mercer","VMI","V",11,8,NA
+2017,2,4,"Michigan","Cleveland St.","V",13,8,NA
+2017,2,11,"Michigan","Lafayette","H",17,6,NA
+2017,2,15,"Michigan","Detroit Mercy","V",15,10,NA
+2017,2,18,"Michigan","Bellarmine","V",13,5,NA
+2017,2,26,"Michigan","Notre Dame","V",5,16,NA
+2017,3,2,"Michigan","Mercer","V",11,6,NA
+2017,3,4,"Michigan","Furman","V",7,5,NA
+2017,3,11,"Michigan","Penn","H",13,12,NA
+2017,3,25,"Michigan","UMBC","H",10,7,NA
+2017,4,1,"Michigan","Maryland","V",8,15,NA
+2017,4,8,"Michigan","Rutgers","H",7,14,NA
+2017,4,15,"Michigan","Ohio St.","H",7,18,NA
+2017,4,22,"Michigan","Johns Hopkins","V",9,19,NA
+2017,4,30,"Michigan","Penn St.","H",13,17,NA
+2017,2,11,"Monmouth","Villanova","V",12,10,NA
+2017,2,18,"Monmouth","Hofstra","V",9,11,NA
+2017,2,21,"Monmouth","Wagner","H",10,8,NA
+2017,2,25,"Monmouth","Delaware","V",10,11,1
+2017,3,4,"Monmouth","UMass Lowell","H",7,6,NA
+2017,3,10,"Monmouth","Saint Joseph's","V",5,6,1
+2017,3,18,"Monmouth","Quinnipiac","V",8,7,2
+2017,3,25,"Monmouth","Siena","H",17,9,NA
+2017,4,1,"Monmouth","Marist","V",7,2,NA
+2017,4,4,"Monmouth","Lafayette","V",9,8,NA
+2017,4,8,"Monmouth","NJIT","V",10,5,NA
+2017,4,10,"Monmouth","VMI","H",15,8,NA
+2017,4,15,"Monmouth","Detroit Mercy","V",11,8,NA
+2017,4,21,"Monmouth","Canisius","H",11,6,NA
+2017,4,28,"Monmouth","Manhattan","H",7,3,NA
+2017,5,5,"Monmouth","Detroit Mercy","N",11,7,NA
+2017,5,7,"Monmouth","Marist","V",9,8,NA
+2017,5,10,"Monmouth","Bryant","V",7,10,NA
+2017,2,11,"Mt. St. Mary's","Delaware","H",5,18,NA
+2017,2,18,"Mt. St. Mary's","Towson","H",5,13,NA
+2017,2,21,"Mt. St. Mary's","Richmond","H",7,10,NA
+2017,2,26,"Mt. St. Mary's","Furman","H",7,14,NA
+2017,3,11,"Mt. St. Mary's","Bellarmine","V",18,7,NA
+2017,3,18,"Mt. St. Mary's","Bryant","H",6,5,NA
+2017,3,25,"Mt. St. Mary's","Robert Morris","V",10,11,1
+2017,3,28,"Mt. St. Mary's","VMI","V",14,8,NA
+2017,4,1,"Mt. St. Mary's","Sacred Heart","H",5,13,NA
+2017,4,8,"Mt. St. Mary's","Bucknell","H",12,10,NA
+2017,4,15,"Mt. St. Mary's","Wagner","V",6,9,NA
+2017,4,18,"Mt. St. Mary's","Georgetown","H",9,11,NA
+2017,4,22,"Mt. St. Mary's","Hobart and William Smith Colleges","V",8,15,NA
+2017,4,29,"Mt. St. Mary's","Saint Joseph's","H",11,15,NA
+2017,2,4,"NJIT","Lehigh","V",5,15,NA
+2017,2,18,"NJIT","Princeton","V",8,22,NA
+2017,2,25,"NJIT","VMI","V",8,9,NA
+2017,2,28,"NJIT","Hofstra","V",4,20,NA
+2017,3,4,"NJIT","Quinnipiac","H",8,11,NA
+2017,3,10,"NJIT","Mercer","H",7,10,NA
+2017,3,13,"NJIT","Army West Point","V",6,19,NA
+2017,3,17,"NJIT","Rutgers","H",6,10,NA
+2017,3,21,"NJIT","Fairfield","V",6,13,NA
+2017,3,25,"NJIT","Wagner","H",4,11,NA
+2017,4,8,"NJIT","Monmouth","H",5,10,NA
+2017,4,11,"NJIT","Lafayette","V",11,12,NA
+2017,4,15,"NJIT","Hampton","V",17,3,NA
+2017,4,22,"NJIT","Manhattan","V",4,9,NA
+2017,4,29,"NJIT","UMass Lowell","H",5,12,NA
+2017,2,7,"Navy","Johns Hopkins","V",8,15,NA
+2017,2,11,"Navy","Maryland","H",12,15,NA
+2017,2,18,"Navy","Delaware","V",11,5,NA
+2017,2,25,"Navy","Boston U.","H",7,8,NA
+2017,3,4,"Navy","Bucknell","H",13,7,NA
+2017,3,7,"Navy","Penn","V",9,11,NA
+2017,3,11,"Navy","Lafayette","V",8,9,NA
+2017,3,18,"Navy","Loyola Maryland","V",7,18,NA
+2017,3,21,"Navy","Dartmouth","H",11,6,NA
+2017,3,25,"Navy","Lehigh","H",14,9,NA
+2017,4,2,"Navy","Holy Cross","V",11,4,NA
+2017,4,8,"Navy","Colgate","V",4,10,NA
+2017,4,15,"Navy","Army West Point","H",10,6,NA
+2017,4,25,"Navy","Holy Cross","H",7,11,NA
+2017,2,4,"North Carolina","UMBC","N",17,6,NA
+2017,2,11,"North Carolina","Furman","V",7,3,NA
+2017,2,18,"North Carolina","Lehigh","H",15,8,NA
+2017,2,25,"North Carolina","Johns Hopkins","H",5,13,NA
+2017,3,4,"North Carolina","Denver","V",13,9,NA
+2017,3,11,"North Carolina","Hofstra","H",9,11,NA
+2017,3,13,"North Carolina","Richmond","H",5,6,NA
+2017,3,18,"North Carolina","Dartmouth","H",17,6,NA
+2017,3,25,"North Carolina","Maryland","H",7,15,NA
+2017,4,2,"North Carolina","Duke","H",8,12,NA
+2017,4,9,"North Carolina","Virginia","V",15,12,NA
+2017,4,15,"North Carolina","Syracuse","H",11,12,1
+2017,4,22,"North Carolina","Notre Dame","V",13,14,NA
+2017,4,28,"North Carolina","Syracuse","N",16,15,NA
+2017,4,30,"North Carolina","Notre Dame","N",14,10,NA
+2017,5,13,"North Carolina","Albany (NY)","V",12,15,NA
+2017,2,18,"Notre Dame","Georgetown","N",16,10,NA
+2017,2,26,"Notre Dame","Michigan","H",16,5,NA
+2017,3,4,"Notre Dame","Maryland","H",5,4,NA
+2017,3,12,"Notre Dame","Denver","V",10,11,NA
+2017,3,18,"Notre Dame","Virginia","V",11,10,1
+2017,3,25,"Notre Dame","Ohio St.","H",12,7,NA
+2017,4,1,"Notre Dame","Syracuse","H",10,11,NA
+2017,4,8,"Notre Dame","Duke","V",8,11,NA
+2017,4,11,"Notre Dame","Marquette","H",11,10,NA
+2017,4,22,"Notre Dame","North Carolina","H",14,13,NA
+2017,4,28,"Notre Dame","Duke","V",7,6,NA
+2017,4,30,"Notre Dame","North Carolina","N",10,14,NA
+2017,5,6,"Notre Dame","Army West Point","V",9,10,1
+2017,5,14,"Notre Dame","Marquette","H",15,9,NA
+2017,5,20,"Notre Dame","Denver","N",4,16,NA
+2017,2,5,"Ohio St.","Furman","H",12,6,NA
+2017,2,11,"Ohio St.","Detroit Mercy","H",14,8,NA
+2017,2,18,"Ohio St.","Massachusetts","H",8,7,NA
+2017,2,25,"Ohio St.","Jacksonville","H",16,8,NA
+2017,3,3,"Ohio St.","Marquette","V",12,6,NA
+2017,3,5,"Ohio St.","Bellarmine","N",14,11,NA
+2017,3,11,"Ohio St.","Cleveland St.","H",12,4,NA
+2017,3,15,"Ohio St.","Towson","V",6,3,NA
+2017,3,19,"Ohio St.","Denver","H",16,7,NA
+2017,3,25,"Ohio St.","Notre Dame","V",7,12,NA
+2017,4,2,"Ohio St.","Penn St.","V",4,9,NA
+2017,4,9,"Ohio St.","Johns Hopkins","H",13,9,NA
+2017,4,15,"Ohio St.","Michigan","V",18,7,NA
+2017,4,22,"Ohio St.","Maryland","H",11,10,1
+2017,4,29,"Ohio St.","Rutgers","V",11,12,1
+2017,5,4,"Ohio St.","Johns Hopkins","H",15,13,NA
+2017,5,6,"Ohio St.","Maryland","H",9,10,NA
+2017,5,14,"Ohio St.","Loyola Maryland","H",7,4,NA
+2017,5,20,"Ohio St.","Duke","N",16,11,NA
+2017,2,18,"Penn","Saint Joseph's","V",10,5,NA
+2017,2,25,"Penn","Virginia","H",11,10,NA
+2017,3,4,"Penn","Penn St.","V",13,14,NA
+2017,3,7,"Penn","Navy","H",11,9,NA
+2017,3,11,"Penn","Michigan","V",12,13,NA
+2017,3,18,"Penn","Princeton","H",8,17,NA
+2017,3,25,"Penn","Cornell","V",10,9,NA
+2017,4,1,"Penn","Yale","H",12,14,NA
+2017,4,8,"Penn","Brown","V",8,11,NA
+2017,4,15,"Penn","Harvard","V",14,10,NA
+2017,4,22,"Penn","Dartmouth","H",9,4,NA
+2017,4,29,"Penn","Virginia","N",17,11,NA
+2017,5,5,"Penn","Yale","V",12,13,4
+2017,2,4,"Penn St.","Robert Morris","H",15,11,NA
+2017,2,11,"Penn St.","Hobart and William Smith Colleges","V",21,15,NA
+2017,2,18,"Penn St.","Cornell","H",20,10,NA
+2017,2,25,"Penn St.","Villanova","V",17,12,NA
+2017,3,4,"Penn St.","Penn","H",14,13,NA
+2017,3,7,"Penn St.","Furman","H",12,10,NA
+2017,3,11,"Penn St.","Harvard","V",15,12,NA
+2017,3,17,"Penn St.","Fairfield","H",9,8,NA
+2017,3,25,"Penn St.","Cleveland St.","H",15,8,NA
+2017,4,2,"Penn St.","Ohio St.","H",9,4,NA
+2017,4,8,"Penn St.","Maryland","V",11,15,NA
+2017,4,15,"Penn St.","Johns Hopkins","V",11,13,NA
+2017,4,23,"Penn St.","Rutgers","H",13,7,NA
+2017,4,30,"Penn St.","Michigan","V",17,13,NA
+2017,5,4,"Penn St.","Maryland","N",6,8,NA
+2017,5,13,"Penn St.","Towson","H",8,12,NA
+2017,2,18,"Princeton","NJIT","H",22,8,NA
+2017,2,21,"Princeton","Marist","H",10,6,NA
+2017,2,25,"Princeton","Hofstra","H",8,10,NA
+2017,3,3,"Princeton","Johns Hopkins","H",18,7,NA
+2017,3,7,"Princeton","Quinnipiac","H",17,13,NA
+2017,3,15,"Princeton","Rutgers","V",11,16,NA
+2017,3,18,"Princeton","Penn","V",17,8,NA
+2017,3,24,"Princeton","Yale","H",13,16,NA
+2017,4,1,"Princeton","Brown","H",21,11,NA
+2017,4,8,"Princeton","Stony Brook","V",13,11,NA
+2017,4,11,"Princeton","Lehigh","V",10,15,NA
+2017,4,15,"Princeton","Dartmouth","V",16,6,NA
+2017,4,22,"Princeton","Harvard","H",12,9,NA
+2017,4,29,"Princeton","Cornell","V",17,18,NA
+2017,5,5,"Princeton","Brown","N",15,17,NA
+2017,2,4,"Providence","Boston U.","H",7,8,2
+2017,2,11,"Providence","Holy Cross","V",10,4,NA
+2017,2,18,"Providence","Bryant","V",7,6,NA
+2017,2,25,"Providence","Vermont","H",8,6,NA
+2017,3,4,"Providence","Sacred Heart","H",8,10,NA
+2017,3,11,"Providence","High Point","H",17,8,NA
+2017,3,18,"Providence","Hofstra","V",10,11,NA
+2017,3,21,"Providence","UMass Lowell","V",11,4,NA
+2017,3,26,"Providence","Drexel","H",9,8,1
+2017,4,1,"Providence","St. John's (NY)","V",15,6,NA
+2017,4,8,"Providence","Georgetown","H",13,7,NA
+2017,4,15,"Providence","Marquette","H",9,7,NA
+2017,4,18,"Providence","Brown","H",12,13,2
+2017,4,22,"Providence","Denver","V",2,12,NA
+2017,4,29,"Providence","Villanova","H",7,15,NA
+2017,5,4,"Providence","Villanova","V",10,7,NA
+2017,5,6,"Providence","Marquette","H",9,10,NA
+2017,2,19,"Quinnipiac","Brown","V",9,25,NA
+2017,2,25,"Quinnipiac","Bellarmine","H",13,14,NA
+2017,3,4,"Quinnipiac","NJIT","V",11,8,NA
+2017,3,7,"Quinnipiac","Princeton","V",13,17,NA
+2017,3,11,"Quinnipiac","Hartford","H",9,11,NA
+2017,3,18,"Quinnipiac","Monmouth","H",7,8,2
+2017,3,26,"Quinnipiac","Detroit Mercy","H",6,8,NA
+2017,4,1,"Quinnipiac","Manhattan","V",12,6,NA
+2017,4,8,"Quinnipiac","Marist","H",8,9,NA
+2017,4,21,"Quinnipiac","Siena","V",8,10,NA
+2017,4,28,"Quinnipiac","Canisius","V",6,10,NA
+2017,2,11,"Richmond","Fairfield","H",15,3,NA
+2017,2,18,"Richmond","UMBC","H",10,5,NA
+2017,2,21,"Richmond","Mt. St. Mary's","V",10,7,NA
+2017,2,25,"Richmond","Marquette","H",9,2,NA
+2017,3,5,"Richmond","Duke","H",8,9,NA
+2017,3,11,"Richmond","VMI","H",13,8,NA
+2017,3,13,"Richmond","North Carolina","V",6,5,NA
+2017,3,18,"Richmond","Jacksonville","V",13,6,NA
+2017,3,25,"Richmond","High Point","V",12,4,NA
+2017,4,1,"Richmond","Virginia","H",7,8,NA
+2017,4,8,"Richmond","Mercer","H",12,9,NA
+2017,4,15,"Richmond","Bellarmine","V",13,6,NA
+2017,4,22,"Richmond","Air Force","V",7,9,NA
+2017,4,29,"Richmond","Furman","H",13,4,NA
+2017,5,4,"Richmond","Furman","H",13,6,NA
+2017,5,6,"Richmond","Air Force","V",6,9,NA
+2017,2,4,"Robert Morris","Penn St.","V",11,15,NA
+2017,2,11,"Robert Morris","Bellarmine","H",10,8,NA
+2017,2,18,"Robert Morris","Manhattan","V",18,8,NA
+2017,2,25,"Robert Morris","Detroit Mercy","H",15,6,NA
+2017,3,5,"Robert Morris","High Point","V",9,7,NA
+2017,3,7,"Robert Morris","Georgetown","V",7,12,NA
+2017,3,11,"Robert Morris","Marquette","H",7,14,NA
+2017,3,18,"Robert Morris","Sacred Heart","V",12,9,NA
+2017,3,25,"Robert Morris","Mt. St. Mary's","H",11,10,1
+2017,4,1,"Robert Morris","Saint Joseph's","V",13,7,NA
+2017,4,8,"Robert Morris","Wagner","H",17,6,NA
+2017,4,11,"Robert Morris","Virginia","V",7,13,NA
+2017,4,18,"Robert Morris","Canisius","H",12,7,NA
+2017,4,22,"Robert Morris","Bryant","V",5,13,NA
+2017,4,29,"Robert Morris","Hobart and William Smith Colleges","H",17,18,NA
+2017,5,4,"Robert Morris","Bryant","N",3,12,NA
+2017,2,11,"Rutgers","St. John's (NY)","V",16,8,NA
+2017,2,18,"Rutgers","Army West Point","H",12,10,NA
+2017,2,25,"Rutgers","Fairfield","V",8,3,NA
+2017,2,28,"Rutgers","Wagner","H",12,5,NA
+2017,3,4,"Rutgers","Brown","H",13,11,NA
+2017,3,10,"Rutgers","Stony Brook","H",17,4,NA
+2017,3,15,"Rutgers","Princeton","H",16,11,NA
+2017,3,17,"Rutgers","NJIT","V",10,6,NA
+2017,3,25,"Rutgers","Delaware","V",9,13,NA
+2017,3,31,"Rutgers","Johns Hopkins","V",6,12,NA
+2017,4,8,"Rutgers","Michigan","V",14,7,NA
+2017,4,16,"Rutgers","Maryland","H",12,13,3
+2017,4,23,"Rutgers","Penn St.","V",7,13,NA
+2017,4,29,"Rutgers","Ohio St.","H",12,11,1
+2017,2,14,"Sacred Heart","Stony Brook","H",11,12,NA
+2017,2,18,"Sacred Heart","Furman","N",9,8,NA
+2017,2,25,"Sacred Heart","Dartmouth","V",15,8,NA
+2017,2,28,"Sacred Heart","Lafayette","H",14,10,NA
+2017,3,4,"Sacred Heart","Providence","V",10,8,NA
+2017,3,11,"Sacred Heart","Vermont","H",10,11,NA
+2017,3,18,"Sacred Heart","Robert Morris","H",9,12,NA
+2017,3,25,"Sacred Heart","Hobart and William Smith Colleges","H",8,7,NA
+2017,4,1,"Sacred Heart","Mt. St. Mary's","V",13,5,NA
+2017,4,8,"Sacred Heart","Bryant","V",7,13,NA
+2017,4,15,"Sacred Heart","Saint Joseph's","H",12,11,1
+2017,4,18,"Sacred Heart","Hartford","V",12,14,NA
+2017,4,22,"Sacred Heart","Cleveland St.","H",18,9,NA
+2017,4,28,"Sacred Heart","Wagner","V",13,11,NA
+2017,5,4,"Sacred Heart","Hobart and William Smith Colleges","V",9,15,NA
+2017,2,14,"Saint Joseph's","Maryland","H",8,16,NA
+2017,2,18,"Saint Joseph's","Penn","H",5,10,NA
+2017,2,25,"Saint Joseph's","Duke","V",3,16,NA
+2017,3,1,"Saint Joseph's","St. John's (NY)","V",8,5,NA
+2017,3,4,"Saint Joseph's","Manhattan","V",18,6,NA
+2017,3,10,"Saint Joseph's","Monmouth","H",6,5,1
+2017,3,12,"Saint Joseph's","Drexel","V",8,12,NA
+2017,3,18,"Saint Joseph's","Delaware","V",7,12,NA
+2017,3,25,"Saint Joseph's","Bryant","V",7,8,NA
+2017,4,1,"Saint Joseph's","Robert Morris","H",7,13,NA
+2017,4,8,"Saint Joseph's","Hobart and William Smith Colleges","H",7,8,1
+2017,4,15,"Saint Joseph's","Sacred Heart","V",11,12,1
+2017,4,22,"Saint Joseph's","Wagner","H",14,5,NA
+2017,4,29,"Saint Joseph's","Mt. St. Mary's","V",15,11,NA
+2017,2,11,"Siena","Syracuse","V",6,19,NA
+2017,2,18,"Siena","Hobart and William Smith Colleges","V",15,16,NA
+2017,2,21,"Siena","Virginia","V",13,20,NA
+2017,2,25,"Siena","UMass Lowell","V",13,18,NA
+2017,3,5,"Siena","St. John's (NY)","H",12,13,NA
+2017,3,7,"Siena","Binghamton","H",5,10,NA
+2017,3,13,"Siena","Bryant","V",13,18,NA
+2017,3,19,"Siena","Colgate","V",11,16,NA
+2017,3,25,"Siena","Monmouth","V",9,17,NA
+2017,4,1,"Siena","Detroit Mercy","H",6,10,NA
+2017,4,8,"Siena","Manhattan","H",16,6,NA
+2017,4,15,"Siena","Canisius","V",11,10,NA
+2017,4,21,"Siena","Quinnipiac","H",10,8,NA
+2017,4,29,"Siena","Marist","V",5,6,NA
+2017,2,11,"St. John's (NY)","Rutgers","H",8,16,NA
+2017,2,19,"St. John's (NY)","Stony Brook","H",5,14,NA
+2017,2,25,"St. John's (NY)","High Point","V",6,15,NA
+2017,3,1,"St. John's (NY)","Saint Joseph's","H",5,8,NA
+2017,3,5,"St. John's (NY)","Siena","V",13,12,NA
+2017,3,11,"St. John's (NY)","Syracuse","H",8,9,NA
+2017,3,18,"St. John's (NY)","Drexel","H",7,9,NA
+2017,3,25,"St. John's (NY)","Hofstra","V",6,9,NA
+2017,4,1,"St. John's (NY)","Providence","H",6,15,NA
+2017,4,4,"St. John's (NY)","Yale","H",7,23,NA
+2017,4,8,"St. John's (NY)","Marquette","V",9,17,NA
+2017,4,15,"St. John's (NY)","Denver","H",12,18,NA
+2017,4,22,"St. John's (NY)","Villanova","V",3,18,NA
+2017,4,29,"St. John's (NY)","Georgetown","V",4,14,NA
+2017,2,14,"Stony Brook","Sacred Heart","V",12,11,NA
+2017,2,19,"Stony Brook","St. John's (NY)","V",14,5,NA
+2017,2,25,"Stony Brook","Brown","V",25,17,NA
+2017,3,4,"Stony Brook","Fairfield","H",9,6,NA
+2017,3,10,"Stony Brook","Rutgers","V",4,17,NA
+2017,3,18,"Stony Brook","UMBC","H",9,12,NA
+2017,3,21,"Stony Brook","Hofstra","V",9,11,NA
+2017,3,26,"Stony Brook","Hartford","V",13,9,NA
+2017,4,1,"Stony Brook","Albany (NY)","H",11,19,NA
+2017,4,8,"Stony Brook","Princeton","H",11,13,NA
+2017,4,15,"Stony Brook","Vermont","V",10,9,NA
+2017,4,21,"Stony Brook","UMass Lowell","V",12,11,1
+2017,4,28,"Stony Brook","Binghamton","H",5,6,1
+2017,5,4,"Stony Brook","Albany (NY)","V",6,19,NA
+2017,2,11,"Syracuse","Siena","H",19,6,NA
+2017,2,18,"Syracuse","Albany (NY)","H",10,9,NA
+2017,2,25,"Syracuse","Army West Point","H",13,14,NA
+2017,3,5,"Syracuse","Virginia","H",14,13,NA
+2017,3,11,"Syracuse","St. John's (NY)","V",9,8,NA
+2017,3,18,"Syracuse","Johns Hopkins","V",8,7,1
+2017,3,25,"Syracuse","Duke","H",12,11,1
+2017,4,1,"Syracuse","Notre Dame","V",11,10,NA
+2017,4,5,"Syracuse","Hobart and William Smith Colleges","V",17,11,NA
+2017,4,11,"Syracuse","Cornell","H",15,8,NA
+2017,4,15,"Syracuse","North Carolina","V",12,11,1
+2017,4,22,"Syracuse","Binghamton","H",9,8,NA
+2017,4,28,"Syracuse","North Carolina","N",15,16,NA
+2017,5,6,"Syracuse","Colgate","V",11,9,NA
+2017,5,14,"Syracuse","Yale","H",11,10,NA
+2017,5,21,"Syracuse","Towson","V",NA,NA,NA
+2017,5,21,"Syracuse","Towson","N",7,10,NA
+2017,2,18,"Towson","Mt. St. Mary's","V",13,5,NA
+2017,2,25,"Towson","Georgetown","V",11,10,NA
+2017,3,1,"Towson","Loyola Maryland","H",7,11,NA
+2017,3,4,"Towson","UMBC","V",8,6,NA
+2017,3,11,"Towson","Johns Hopkins","H",13,8,NA
+2017,3,15,"Towson","Ohio St.","H",3,6,NA
+2017,3,25,"Towson","Denver","H",11,12,NA
+2017,4,1,"Towson","Drexel","V",8,7,NA
+2017,4,8,"Towson","Massachusetts","H",11,8,NA
+2017,4,15,"Towson","Delaware","V",10,6,NA
+2017,4,22,"Towson","Fairfield","V",8,9,NA
+2017,4,29,"Towson","Hofstra","H",10,8,NA
+2017,5,4,"Towson","Drexel","H",8,4,NA
+2017,5,6,"Towson","Massachusetts","H",9,4,NA
+2017,5,13,"Towson","Penn St.","V",12,8,NA
+2017,5,21,"Towson","Syracuse","V",NA,NA,NA
+2017,5,21,"Towson","Syracuse","N",10,7,NA
+2017,2,4,"UMBC","North Carolina","N",6,17,NA
+2017,2,11,"UMBC","Johns Hopkins","V",5,15,NA
+2017,2,18,"UMBC","Richmond","V",5,10,NA
+2017,2,25,"UMBC","Mercer","H",15,4,NA
+2017,3,4,"UMBC","Towson","H",6,8,NA
+2017,3,11,"UMBC","Marist","V",6,4,NA
+2017,3,18,"UMBC","Stony Brook","V",12,9,NA
+2017,3,25,"UMBC","Michigan","V",7,10,NA
+2017,4,1,"UMBC","UMass Lowell","H",10,6,NA
+2017,4,8,"UMBC","Albany (NY)","V",5,10,NA
+2017,4,15,"UMBC","Binghamton","H",7,6,NA
+2017,4,22,"UMBC","Hartford","V",8,13,NA
+2017,4,29,"UMBC","Vermont","H",10,7,NA
+2017,5,4,"UMBC","Binghamton","N",4,9,NA
+2017,2,11,"UMass Lowell","Boston U.","H",8,18,NA
+2017,2,18,"UMass Lowell","Harvard","H",9,14,NA
+2017,2,25,"UMass Lowell","Siena","H",18,13,NA
+2017,2,28,"UMass Lowell","Fairfield","H",7,8,NA
+2017,3,4,"UMass Lowell","Monmouth","V",6,7,NA
+2017,3,11,"UMass Lowell","Manhattan","V",13,6,NA
+2017,3,15,"UMass Lowell","Massachusetts","V",8,10,NA
+2017,3,18,"UMass Lowell","Binghamton","H",8,15,NA
+2017,3,21,"UMass Lowell","Providence","H",4,11,NA
+2017,3,25,"UMass Lowell","Albany (NY)","V",11,21,NA
+2017,4,1,"UMass Lowell","UMBC","V",6,10,NA
+2017,4,8,"UMass Lowell","Vermont","H",11,12,NA
+2017,4,11,"UMass Lowell","Dartmouth","V",8,14,NA
+2017,4,15,"UMass Lowell","Hartford","V",12,11,NA
+2017,4,21,"UMass Lowell","Stony Brook","H",11,12,1
+2017,4,29,"UMass Lowell","NJIT","V",12,5,NA
+2017,2,20,"VMI","Army West Point","V",5,20,NA
+2017,2,25,"VMI","NJIT","H",9,8,NA
+2017,2,28,"VMI","Delaware","H",9,15,NA
+2017,3,7,"VMI","Wagner","V",8,11,NA
+2017,3,11,"VMI","Richmond","V",8,13,NA
+2017,3,17,"VMI","High Point","H",5,11,NA
+2017,3,25,"VMI","Bellarmine","V",8,13,NA
+2017,3,28,"VMI","Mt. St. Mary's","H",8,14,NA
+2017,4,1,"VMI","Hampton","V",14,1,NA
+2017,4,8,"VMI","Jacksonville","H",10,16,NA
+2017,4,10,"VMI","Monmouth","V",8,15,NA
+2017,4,15,"VMI","Air Force","H",4,14,NA
+2017,4,22,"VMI","Furman","V",3,18,NA
+2017,4,29,"VMI","Mercer","H",8,11,NA
+2017,2,2,"Vermont","Furman","V",13,12,1
+2017,2,4,"Vermont","Mercer","V",13,12,1
+2017,2,18,"Vermont","Holy Cross","H",14,8,NA
+2017,2,25,"Vermont","Providence","V",6,8,NA
+2017,2,28,"Vermont","Dartmouth","V",9,11,NA
+2017,3,4,"Vermont","Harvard","V",10,13,NA
+2017,3,11,"Vermont","Sacred Heart","V",11,10,NA
+2017,3,18,"Vermont","Albany (NY)","H",6,17,NA
+2017,3,25,"Vermont","Binghamton","V",5,8,NA
+2017,4,1,"Vermont","Hartford","H",13,15,NA
+2017,4,8,"Vermont","UMass Lowell","V",12,11,NA
+2017,4,15,"Vermont","Stony Brook","H",9,10,NA
+2017,4,29,"Vermont","UMBC","V",7,10,NA
+2017,2,11,"Villanova","Monmouth","H",10,12,NA
+2017,2,18,"Villanova","Yale","H",11,16,NA
+2017,2,25,"Villanova","Penn St.","H",12,17,NA
+2017,2,28,"Villanova","Drexel","V",15,13,NA
+2017,3,4,"Villanova","Delaware","H",10,13,NA
+2017,3,7,"Villanova","Brown","V",17,15,NA
+2017,3,18,"Villanova","Maryland","V",13,12,1
+2017,3,21,"Villanova","Bucknell","H",13,8,NA
+2017,3,25,"Villanova","Fairfield","V",18,9,NA
+2017,4,1,"Villanova","Marquette","H",10,9,1
+2017,4,9,"Villanova","Denver","V",11,16,NA
+2017,4,15,"Villanova","Georgetown","V",17,12,NA
+2017,4,22,"Villanova","St. John's (NY)","H",18,3,NA
+2017,4,29,"Villanova","Providence","V",15,7,NA
+2017,5,4,"Villanova","Providence","H",7,10,NA
+2017,2,11,"Virginia","Loyola Maryland","V",16,15,NA
+2017,2,18,"Virginia","Drexel","H",18,14,NA
+2017,2,21,"Virginia","Siena","H",20,13,NA
+2017,2,25,"Virginia","Penn","V",10,11,NA
+2017,3,1,"Virginia","High Point","H",18,12,NA
+2017,3,5,"Virginia","Syracuse","V",13,14,NA
+2017,3,11,"Virginia","Cornell","N",19,18,1
+2017,3,18,"Virginia","Notre Dame","H",10,11,1
+2017,3,25,"Virginia","Johns Hopkins","V",17,18,1
+2017,4,1,"Virginia","Richmond","V",8,7,NA
+2017,4,4,"Virginia","Cleveland St.","H",20,7,NA
+2017,4,9,"Virginia","North Carolina","H",12,15,NA
+2017,4,11,"Virginia","Robert Morris","H",13,7,NA
+2017,4,15,"Virginia","Duke","V",11,20,NA
+2017,4,29,"Virginia","Penn","N",11,17,NA
+2017,2,11,"Wagner","Manhattan","V",13,14,3
+2017,2,17,"Wagner","Lafayette","H",9,8,NA
+2017,2,21,"Wagner","Monmouth","V",8,10,NA
+2017,2,28,"Wagner","Rutgers","V",5,12,NA
+2017,3,4,"Wagner","Dartmouth","H",7,6,2
+2017,3,7,"Wagner","VMI","H",11,8,NA
+2017,3,10,"Wagner","Hampton","H",10,3,NA
+2017,3,12,"Wagner","Mercer","H",5,6,NA
+2017,3,18,"Wagner","Hobart and William Smith Colleges","V",5,17,NA
+2017,3,25,"Wagner","NJIT","V",11,4,NA
+2017,4,1,"Wagner","Bryant","H",1,8,NA
+2017,4,8,"Wagner","Robert Morris","V",6,17,NA
+2017,4,15,"Wagner","Mt. St. Mary's","H",9,6,NA
+2017,4,22,"Wagner","Saint Joseph's","V",5,14,NA
+2017,4,28,"Wagner","Sacred Heart","H",11,13,NA
+2017,2,18,"Yale","Villanova","V",16,11,NA
+2017,2,25,"Yale","Maryland","V",11,12,NA
+2017,3,5,"Yale","Bryant","H",6,9,NA
+2017,3,7,"Yale","Massachusetts","H",9,11,NA
+2017,3,11,"Yale","Fairfield","H",11,10,2
+2017,3,18,"Yale","Cornell","H",17,8,NA
+2017,3,24,"Yale","Princeton","V",16,13,NA
+2017,4,1,"Yale","Penn","V",14,12,NA
+2017,4,4,"Yale","St. John's (NY)","V",23,7,NA
+2017,4,8,"Yale","Dartmouth","H",13,6,NA
+2017,4,15,"Yale","Brown","H",18,12,NA
+2017,4,22,"Yale","Albany (NY)","V",12,13,NA
+2017,4,29,"Yale","Harvard","V",8,9,NA
+2017,5,5,"Yale","Penn","H",13,12,4
+2017,5,7,"Yale","Brown","H",10,9,NA
+2017,5,14,"Yale","Syracuse","V",10,11,NA
