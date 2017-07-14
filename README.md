@@ -8,5 +8,5 @@ __MLB/:__
 
 __College_Lax/:__ Models, power rankings, and playoff predictions for Ivy League/NCAA Division 1 Men's and Women's Lacrosse
 
-__BB_Ref_Scrape/:__ 
+__bbref_info.nb.html:__ 
 * HTML Notebook guide for scraping data from http://basketball-reference.com. Note this file is large and must me dowloaded locally to view
