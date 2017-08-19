@@ -10,3 +10,5 @@ __College_Lax/:__ Models, power rankings, and playoff predictions for Ivy League
 
 __bbref_info.nb.html:__ 
 * HTML Notebook guide for scraping data from http://basketball-reference.com. Note this file is large and must me dowloaded locally to view
+
+__ggjoy.R__ Code used for making plot [seen here](http://sports.sites.yale.edu/ncaa-mens-basketball-power-rankings-0)
