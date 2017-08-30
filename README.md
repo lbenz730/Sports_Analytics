@@ -12,3 +12,5 @@ __bbref_info.nb.html:__
 * HTML Notebook guide for scraping data from http://basketball-reference.com. Note this file is large and must me dowloaded locally to view
 
 __ggjoy.R:__ Code used for making plot [seen here](http://sports.sites.yale.edu/ncaa-mens-basketball-power-rankings-0)
+
+__Ivy_FB.R__ Code used to scrape and plot data for Yale Daily News Sports Article "BY THE NUMBERS: How to Win an Ivy League Football Championship"
