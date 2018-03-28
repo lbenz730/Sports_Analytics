@@ -1,9 +1,9 @@
 "Team","YUSAG_Coefficient","Expected_Wins","Expected_Losses"
-"Princeton",1.6,9,-2
-"Yale",-4.7,1,6
-"Harvard",-2.4,4,3
-"Penn",0.8,6,1
-"Columbia",-6.2,2,5
-"Brown",-6.2,1,6
-"Cornell",0.3,7,0
-"Dartmouth",-4.9,2,5
+"Princeton",8.89224137931035,4.7,2.3
+"Yale",4.29224137931034,3.4,3.6
+"Harvard",4.09224137931034,1.6,5.4
+"Penn",10.3922413793103,6.1,0.9
+"Brown",3.79224137931034,1.8,5.2
+"Cornell",6.89224137931034,4.3,2.7
+"Dartmouth",6.19224137931034,4.6,2.4
+"Columbia",-0.407758620689656,1.5,5.5

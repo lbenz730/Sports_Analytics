@@ -1,113 +1,117 @@
 "Team","YUSAG_Coefficient","rank"
-"Maryland",6.7,1
-"North Carolina",5.8,2
-"Florida",3.9,3
-"Stony Brook",3.5,4
-"Syracuse",2.3,5
-"Penn St.",1.8,6
-"Princeton",1.6,7
-"Southern California",1.4,8
-"Boston College",1.3,9
-"Notre Dame",1.2,10
-"Northwestern",1.1,11
-"Penn",0.8,12
-"Duke",0.4,13
-"Cornell",0.3,14
-"Virginia",0.2,15
-"James Madison",0.1,16
-"Albany (NY)",0,17
-"Stanford",0,18
-"Johns Hopkins",-0.8,19
-"Louisville",-0.9,20
-"Towson",-0.9,21
-"Massachusetts",-1,22
-"Colorado",-1.1,23
-"Loyola Maryland",-1.3,24
-"Delaware",-1.9,25
-"Navy",-2,26
-"Harvard",-2.4,27
-"Denver",-2.5,28
-"Georgetown",-3.2,29
-"Ohio St.",-3.5,30
-"UConn",-3.7,31
-"Canisius",-3.8,32
-"Jacksonville",-4,33
-"Elon",-4.5,34
-"Virginia Tech",-4.6,35
-"Yale",-4.7,36
-"Dartmouth",-4.9,37
-"High Point",-5.1,38
-"Temple",-5.1,39
-"Vanderbilt",-5.6,40
-"Boston U.",-5.7,41
-"Lehigh",-5.7,42
-"Oregon",-5.8,43
-"UMBC",-5.8,44
-"Rutgers",-5.9,45
-"Hofstra",-6.1,46
-"Brown",-6.2,47
-"Columbia",-6.2,48
-"Richmond",-6.3,49
-"Drexel",-6.5,50
-"Fairfield",-6.8,51
-"Marquette",-6.8,52
-"Michigan",-7,53
-"George Mason",-7.8,54
-"Bryant",-7.9,55
-"Colgate",-7.9,56
-"San Diego St.",-7.9,57
-"Villanova",-7.9,58
-"William & Mary",-7.9,59
-"Winthrop",-8.1,60
-"New Hampshire",-8.2,61
-"Marist",-8.5,62
-"Saint Joseph's",-9.3,63
-"Vermont",-9.3,64
-"Davidson",-9.5,65
-"UC Davis",-9.5,66
-"Monmouth",-9.6,67
-"Lafayette",-9.7,68
-"Coastal Caro.",-9.9,69
-"Holy Cross",-9.9,70
-"Binghamton",-10.1,71
-"Bucknell",-10.2,72
-"Old Dominion",-10.9,73
-"Duquesne",-11.1,74
-"Niagara",-11.2,75
-"Wagner",-11.2,76
-"California",-11.4,77
-"La Salle",-11.8,78
-"American",-11.9,79
-"Cincinnati",-11.9,80
-"Robert Morris",-12.2,81
-"George Washington",-12.3,82
-"Fresno St.",-12.6,83
-"Iona",-12.7,84
-"Siena",-12.7,85
-"Furman",-13,86
-"Campbell",-13.2,87
-"Longwood",-13.4,88
-"Liberty",-13.6,89
-"Sacred Heart",-13.6,90
-"Detroit Mercy",-13.9,91
-"Manhattan",-14.2,92
-"Army West Point",-14.5,93
-"Mt. St. Mary's",-14.5,94
-"UMass Lowell",-14.6,95
-"VCU",-14.7,96
-"Central Conn. St.",-15.5,97
-"Mercer",-15.7,98
-"Quinnipiac",-15.7,99
-"Stetson",-16.8,100
-"LIU Brooklyn",-17,101
-"St. Bonaventure",-17.3,102
-"Saint Francis (PA)",-17.4,103
-"Central Mich.",-17.8,104
-"Kennesaw St.",-18.4,105
-"Saint Mary's (CA)",-20.8,106
-"Radford",-21,107
-"Butler",-23,108
-"Presbyterian",-23,109
-"Gardner-Webb",-25.8,110
-"Howard",-29.4,111
-"Delaware St.",-30,112
+"Maryland",14.3922413793103,1
+"Stony Brook",14.2922413793103,2
+"North Carolina",13.0922413793103,3
+"Florida",11.9922413793103,4
+"Boston College",11.7922413793103,5
+"James Madison",10.6922413793103,6
+"Northwestern",10.4922413793103,7
+"Penn",10.3922413793103,8
+"Virginia",10.3922413793103,9
+"Colorado",10.2922413793103,10
+"Stanford",10.2922413793103,11
+"Southern California",10.0922413793103,12
+"Syracuse",10.0922413793103,13
+"Towson",9.89224137931035,14
+"Penn St.",9.29224137931034,15
+"Princeton",8.89224137931035,16
+"Loyola Maryland",8.79224137931034,17
+"Notre Dame",8.09224137931034,18
+"Johns Hopkins",7.79224137931034,19
+"Duke",7.19224137931035,20
+"Navy",6.99224137931034,21
+"Cornell",6.89224137931034,22
+"Denver",6.89224137931034,23
+"Virginia Tech",6.79224137931034,24
+"Massachusetts",6.59224137931034,25
+"High Point",6.49224137931034,26
+"Dartmouth",6.19224137931034,27
+"Georgetown",5.69224137931034,28
+"Richmond",4.69224137931034,29
+"Jacksonville",4.49224137931034,30
+"Oregon",4.49224137931034,31
+"Louisville",4.39224137931035,32
+"Yale",4.29224137931034,33
+"Delaware",4.19224137931034,34
+"Harvard",4.09224137931034,35
+"Brown",3.79224137931034,36
+"Elon",3.59224137931034,37
+"Ohio St.",3.39224137931034,38
+"UConn",3.39224137931034,39
+"Vanderbilt",3.29224137931034,40
+"George Mason",2.89224137931034,41
+"Rutgers",2.89224137931034,42
+"Hofstra",2.79224137931034,43
+"Michigan",2.59224137931034,44
+"Bryant",2.49224137931034,45
+"Albany (NY)",2.29224137931034,46
+"Canisius",2.09224137931034,47
+"Marquette",2.09224137931034,48
+"Lehigh",1.99224137931034,49
+"Fairfield",1.89224137931034,50
+"San Diego St.",1.79224137931034,51
+"Saint Joseph's",1.49224137931034,52
+"Villanova",1.49224137931034,53
+"Temple",1.39224137931034,54
+"UMBC",1.39224137931034,55
+"Boston U.",1.29224137931034,56
+"Colgate",0.492241379310345,57
+"Drexel",0.0922413793103445,58
+"California",-0.107758620689655,59
+"Marist",-0.107758620689655,60
+"Davidson",-0.307758620689655,61
+"Binghamton",-0.407758620689656,62
+"Columbia",-0.407758620689656,63
+"Cincinnati",-0.607758620689655,64
+"Winthrop",-0.607758620689655,65
+"William & Mary",-0.707758620689655,66
+"Arizona St.",-1.00775862068966,67
+"Coastal Caro.",-1.00775862068966,68
+"La Salle",-1.40775862068966,69
+"Liberty",-1.50775862068966,70
+"New Hampshire",-1.60775862068966,71
+"UC Davis",-1.60775862068966,72
+"Wagner",-2.00775862068966,73
+"George Washington",-2.40775862068966,74
+"Niagara",-2.50775862068966,75
+"Fresno St.",-2.70775862068966,76
+"Monmouth",-2.80775862068965,77
+"Army West Point",-2.90775862068966,78
+"Holy Cross",-2.90775862068966,79
+"Iona",-3.10775862068966,80
+"UMass Lowell",-3.10775862068966,81
+"Campbell",-3.30775862068965,82
+"Mt. St. Mary's",-3.30775862068965,83
+"Robert Morris",-3.40775862068966,84
+"Lafayette",-4.30775862068965,85
+"VCU",-4.40775862068966,86
+"Old Dominion",-4.60775862068966,87
+"Vermont",-4.60775862068966,88
+"Mercer",-4.70775862068966,89
+"Detroit Mercy",-4.80775862068965,90
+"Bucknell",-4.90775862068966,91
+"Duquesne",-5.10775862068966,92
+"Furman",-6.20775862068966,93
+"Kennesaw St.",-6.20775862068966,94
+"Longwood",-6.30775862068965,95
+"Manhattan",-6.40775862068965,96
+"Central Mich.",-6.70775862068966,97
+"Quinnipiac",-6.70775862068966,98
+"American",-6.80775862068965,99
+"Siena",-6.80775862068965,100
+"Stetson",-6.80775862068965,101
+"Radford",-7.30775862068965,102
+"Sacred Heart",-8.30775862068965,103
+"LIU Brooklyn",-8.80775862068965,104
+"Saint Francis (PA)",-8.80775862068965,105
+"Central Conn. St.",-9.10775862068965,106
+"St. Bonaventure",-10.2077586206897,107
+"East Carolina",-10.9077586206897,108
+"Saint Mary's (CA)",-11.4077586206897,109
+"Butler",-12.6077586206897,110
+"Gardner-Webb",-13.8077586206897,111
+"Presbyterian",-15.9077586206897,112
+"Hartford",-18.1077586206897,113
+"Wofford",-19.0077586206897,114
+"Howard",-20.7077586206897,115
+"Delaware St.",-25.0077586206897,116
