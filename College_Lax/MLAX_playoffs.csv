@@ -1,8 +1,8 @@
-"Team","playoff_prob","seed1_prob","seed2_prob","seed3_prob","seed4_prob"
-"Princeton",99.5,1.2,28.4,65.6,4.3
-"Yale",100,87,9.5,3.5,0
-"Harvard",60.8,0,0.8,4.4,55.7
-"Penn",36.3,0,0,0.4,35.9
-"Brown",100,11.8,61.3,26.1,0.7
-"Cornell",3.4,0,0,0,3.4
-"Dartmouth",0,0,0,0,0
+"Team","champ","playoff_prob","seed1_prob","seed2_prob","seed3_prob","seed4_prob"
+"Princeton",1.4,15.5,0.1,1.6,3.7,10.1
+"Yale",40.8,98.3,72.6,14.6,7.3,3.8
+"Harvard",6,72.2,6.8,14.4,23.4,27.6
+"Penn",12.5,75.4,6.9,9.9,31.8,26.8
+"Brown",9.2,48.8,4.7,9.6,14.2,20.3
+"Cornell",30.1,91.3,9,50,21,11.3
+"Dartmouth",0,0.5,0,0,0.1,0.4

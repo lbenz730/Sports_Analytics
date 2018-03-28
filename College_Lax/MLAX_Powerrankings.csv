@@ -1,72 +1,73 @@
 "Team","YUSAG_Coefficient","rank"
-"Duke",5.5,1
-"Albany (NY)",5.4,2
-"Denver",5.3,3
-"Maryland",5.2,4
-"Notre Dame",5,5
-"Syracuse",4.9,6
-"North Carolina",4.1,7
-"Yale",3.8,8
-"Brown",3.5,9
-"Loyola Maryland",3.4,10
-"Johns Hopkins",3.3,11
-"Ohio St.",2.2,12
-"Penn St.",2.1,13
-"Army West Point",2,14
-"Towson",1.8,15
-"Virginia",1.8,16
-"Villanova",1.7,17
-"Princeton",1.4,18
-"Rutgers",1.4,19
-"Harvard",1.1,20
-"Hofstra",0.9,21
-"Cornell",0.8,22
-"Penn",0.8,23
-"Stony Brook",0.6,24
-"Marquette",0.5,25
-"Navy",0.4,26
-"Richmond",0.3,27
-"Bryant",0.2,28
-"Air Force",0,29
-"Massachusetts",-0.1,30
-"Boston U.",-0.3,31
-"Drexel",-0.4,32
-"Lehigh",-0.5,33
-"Bucknell",-0.6,34
-"Fairfield",-0.7,35
-"Saint Joseph's",-0.8,36
-"Georgetown",-1,37
-"Providence",-1,38
-"Binghamton",-1.5,39
-"Colgate",-1.5,40
-"Marist",-1.8,41
-"Hartford",-2,42
-"Hobart and William Smith Colleges",-2,43
-"Michigan",-2.3,44
-"Delaware",-2.4,45
-"UMBC",-2.4,46
-"High Point",-2.5,47
-"Vermont",-2.5,48
-"Robert Morris",-2.9,49
-"Holy Cross",-3.1,50
-"Furman",-3.6,51
-"Monmouth",-3.6,52
-"Quinnipiac",-3.7,53
-"Sacred Heart",-4.3,54
-"Canisius",-4.4,55
-"St. John's (NY)",-4.4,56
-"Bellarmine",-4.7,57
-"Mt. St. Mary's",-4.7,58
-"Siena",-5.1,59
-"Detroit Mercy",-5.4,60
-"Mercer",-5.4,61
-"Jacksonville",-5.6,62
-"Dartmouth",-6.1,63
-"UMass Lowell",-6.3,64
-"Lafayette",-6.4,65
-"Wagner",-7.4,66
-"Cleveland St.",-8.5,67
-"Manhattan",-9.1,68
-"NJIT",-11,69
-"VMI",-11.4,70
-"Hampton",-22.3,71
+"Albany (NY)",8.84166666666667,1
+"Duke",6.64166666666667,2
+"Maryland",6.14166666666667,3
+"Loyola Maryland",5.24166666666667,4
+"Yale",5.24166666666667,5
+"Denver",4.94166666666667,6
+"Johns Hopkins",4.84166666666667,7
+"Cornell",4.64166666666667,8
+"Penn St.",4.54166666666667,9
+"Notre Dame",3.84166666666667,10
+"Rutgers",3.64166666666667,11
+"Villanova",3.64166666666667,12
+"Syracuse",3.54166666666667,13
+"Brown",3.14166666666667,14
+"Penn",3.14166666666667,15
+"Army West Point",2.94166666666667,16
+"Colgate",2.74166666666667,17
+"Ohio St.",2.74166666666667,18
+"Robert Morris",2.74166666666667,19
+"Virginia",2.74166666666667,20
+"Georgetown",2.34166666666667,21
+"Hofstra",2.34166666666667,22
+"Bucknell",2.14166666666667,23
+"Towson",2.14166666666667,24
+"Lehigh",2.04166666666667,25
+"North Carolina",2.04166666666667,26
+"Bryant",1.84166666666667,27
+"Michigan",1.54166666666667,28
+"Harvard",1.44166666666667,29
+"Drexel",1.34166666666667,30
+"Vermont",1.24166666666667,31
+"Navy",1.04166666666667,32
+"Massachusetts",0.941666666666666,33
+"Princeton",0.741666666666667,34
+"Marquette",0.541666666666667,35
+"Boston U.",0.341666666666667,36
+"Providence",0.341666666666667,37
+"Hobart and William Smith Colleges",0.341666666666667,38
+"Richmond",0.241666666666667,39
+"St. John's (NY)",0.0416666666666665,40
+"Saint Joseph's",-0.0583333333333333,41
+"Hobart and William Smith",-0.158333333333333,42
+"Jacksonville",-0.558333333333333,43
+"Hartford",-0.658333333333333,44
+"Fairfield",-0.858333333333333,45
+"Stony Brook",-0.858333333333333,46
+"Delaware",-1.05833333333333,47
+"Monmouth",-1.05833333333333,48
+"Sacred Heart",-1.15833333333333,49
+"UMBC",-1.75833333333333,50
+"Air Force",-1.85833333333333,51
+"High Point",-2.05833333333333,52
+"Quinnipiac",-2.05833333333333,53
+"Furman",-2.15833333333333,54
+"UMass Lowell",-2.25833333333333,55
+"Detroit Mercy",-2.35833333333333,56
+"Marist",-2.45833333333333,57
+"Mt. St. Mary's",-2.75833333333333,58
+"Canisius",-2.95833333333333,59
+"Holy Cross",-3.05833333333333,60
+"Siena",-3.25833333333333,61
+"Mercer",-3.85833333333333,62
+"Bellarmine",-4.45833333333333,63
+"Dartmouth",-4.45833333333333,64
+"Binghamton",-4.55833333333333,65
+"Cleveland St.",-4.55833333333333,66
+"Manhattan",-5.85833333333333,67
+"Lafayette",-6.45833333333333,68
+"Wagner",-6.45833333333333,69
+"NJIT",-8.05833333333333,70
+"VMI",-8.15833333333333,71
+"Hampton",-18.6583333333333,72
