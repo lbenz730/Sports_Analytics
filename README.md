@@ -1,6 +1,7 @@
 # Sports_Analytics
 A collection of projects done for the Yale Undergraduate Sports Analytics Group
 
+__nathans_hotdog:/__ R scrpt to scape and analyze data for the annual Nathan's Famous Hot Dog Eating Contest.
 __Ivy_League_WAR/:__ R script and output files for a project bringing Wins Above Replacement and other sabermetrics to Ivy League Baseball/Softball. Be sure to check out the [full WAR Leaderboard](https://docs.google.com/spreadsheets/d/1qaG3wn409CV1xS8zuaWmYKHcfBgsJHViAMK-d0OIsfM/edit#gid=0)
 
 __MLB/:__
