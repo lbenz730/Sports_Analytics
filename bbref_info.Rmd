@@ -1,0 +1,138 @@
+---
+title: "An Introduction to Scraping Data from Basketball Reference"
+author: "Luke Benz"
+output:
+  pdf_document: default
+---
+Before we begin, let's make sure we have the necessary packages installed. The
+XML package will allow our computer to "slurp" tables right from the internet 
+with minimal work. After installing, we load the XML package and are ready
+to begin our analysis.
+
+```{r}
+install.packages("XML")
+library(XML)
+```
+
+I'll begin by scraping some season by season stats. I'll build up eventually to
+scraping several seasons at a time, but for now let's just see how the 
+readHTMLTable() function works for this type of data. For this example, I 
+would like to get the data seen on this page: http://www.basketball-reference.com/leagues/NBA_2017_per_game.html
+
+We begin by assing our desired website to an object (for ease, I like to call it url), and the apply the readHTMLTable() function as follows.
+```{r}
+url <- "http://www.basketball-reference.com/leagues/NBA_2017_per_game.html"
+readHTMLTable(url)
+
+```
+
+This looks promising, but there is still some work to be done. It's subtle, but the readHTMLTable() function returns a set of all HTML table it is able to read in a list format. Some website you scrape, there will more be one table (as we see in this example with the data and another list element, "NA"), so we'll have to choose which elements we want. Here we want the first list component, which we can get using [[1]] or "$per_game_stats". I prefer the [[1]] notation. We'll also want to convert our data into a data frame (think spreadsheet) so that it is convenient to use. Lists are using for storing lots of things, but when we analyze data, we'll want to use a data frame.
+
+```{r}
+url <- "http://www.basketball-reference.com/leagues/NBA_2017_per_game.html"
+tmp <- as.data.frame(readHTMLTable(url)[[1]])
+head(tmp)
+
+```
+
+This looks pretty nice to work with! Before we start scraping several year's worth of data, we'll want to learn how to clean our data set and make it nice to analyze. First the Basketball Reference website does something mildly annoying (at least for scraping data). Every 25 rows or so, we'll see an additional header row. While this makes it very nice for humans to read on the website, computers don't distinguish this from other data rows, and treat it as such. As a consequence, R converts all the columns into data of type character or factor (as in this case) when we really want it to be numberic (so we can do math with it). We'll remove the additional header rows from the data set, and then will convert the data we want to be numeric to type numeric.
+
+```{r}
+url <- "http://www.basketball-reference.com/leagues/NBA_2017_per_game.html"
+tmp <- as.data.frame(readHTMLTable(url)[[1]])
+### remove additional header rows:
+tmp <- tmp[tmp$Player != "Player", ]
+### Convert to type numeric. Usually as.numeic() will work on its own, but
+### with a factor, we need to first convert to character, then to numeric.
+for(j in 6:ncol(tmp)){
+  tmp[, j] <- as.numeric(as.character(tmp[,j]))
+}
+
+head(tmp)
+```
+
+We see our data has been converted to double type (a type of numeric). Now we can begin getting several years worth of data. The pseudocode for the following code is as follows:
+1) Loop through years I desire.
+2) Store iteration year's data in temporary variable.
+3) Bind current iteration year's data together with cumulative data frame.
+Note we won't use rbind() (merge data frames by adding rows together) on our first iteration since we need to begin our new data frame. Every iteration after that we use rbind(). We note that for all years, the only difference in the url is the year. Thus, we can simply paste the year into the middle of the url as you'll see below.
+
+```{r}
+i <- 2010
+for(i in 2010:2017){
+  print(i) # Counter to see our progress
+  url <- paste("http://www.basketball-reference.com/leagues/NBA_", i, "_per_game.html", sep = "")
+  tmp <- as.data.frame(readHTMLTable(url)[[1]])
+  tmp <- tmp[tmp$Player != "Player", ]
+  
+  for(j in 6:ncol(tmp)){
+    tmp[, j] <- as.numeric(as.character(tmp[,j]))
+  }
+  
+  ### Add an addition marker to the data to keep track of what year it's from
+  tmp$year <- i
+  
+  if(i == 2010){
+    seasons <- tmp
+  }else{
+    seasons <-rbind(seasons, tmp)
+  }
+}
+
+head(seasons)
+tail(seasons)
+```
+
+Nice! If we look at the year column (last column) we see 2010 and 2017, suggesting our scrape was a success.
+
+Now we'll save this data as a csv file for future use.
+
+```{r}
+### follow this format:
+### write.table(data frame name, 'title.csv', row.name = F, col.name = T, sep = ",")
+write.table(seasons, "seasons.csv", row.names = F, col.names = T, sep = ",")
+```
+
+
+
+
+CASE STUDY 2: Scraping data from the play index (or something with several pages after a search)
+After finishing the results of our seach on bbref, we scrape the first page almost exactly the same as above
+```{r}
+url <- "http://www.basketball-reference.com/play-index/pgl_finder.cgi?request=1&player_id=&match=game&year_min=2009&year_max=2017&age_min=0&age_max=99&team_id=&opp_id=&is_playoffs=E&round_id=&game_num_type=&game_num_min=&game_num_max=&game_month=&game_day=&game_location=&game_result=&is_starter=&is_active=&is_hof=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=date_game&order_by_asc"
+games <- as.data.frame(readHTMLTable(url)[[1]])
+for(j in 10:ncol(games)){
+  games[, j] <- suppressWarnings(as.numeric(as.character(games[,j])))
+}
+games <- games[games$Player != "Player", ]
+head(games, 10)
+```
+
+Note we use 10 as a starting counter for j because the 10th column is the first that contains numeric data. Also, when we run this case, R yells an warning message "NAs introduced by coercion". Usually, that message is bad, but here its ok. Sometimes if an occurance (say taking a three pointer) doesn't occur, bbref leaves a column black. R will convert these to NA, or missing values. For this script, I supress these warnings, but you should always read warning messages before making this decision
+
+Now we we have several pages of data, we notice the "offset" component of the url. This is a row offset counter which increments by multiples of 100, since basketball reference displays 100 rows per page. Usually we should flip through the pages until we find the offset value of the final page of data. If this numerber is really large, we can periodically stop to check our progress, and then adjust our start and end offsets accordingly. I'll just grab a few pages of data for this lesson, but you can grab thousands of pages this way (although that make take several hours).
+
+
+```{r}
+start <- 1
+end <- 10
+for(k in start:end){
+  print(k)
+  url <- paste("http://www.basketball-reference.com/play-index/pgl_finder.cgi?request=1&player_id=&match=game&year_min=2009&year_max=2017&age_min=0&age_max=99&team_id=&opp_id=&is_playoffs=E&round_id=&game_num_type=&game_num_min=&game_num_max=&game_month=&game_day=&game_location=&game_result=&is_starter=&is_active=&is_hof=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=date_game&order_by_asc=&offset=", 100 * k, sep = "")
+  tmp <- as.data.frame(readHTMLTable(url)[[1]])
+  for(j in 10:ncol(tmp)){
+    tmp[, j] <- suppressWarnings(as.numeric(as.character(tmp[,j])))
+  }
+  tmp <- tmp[tmp$Player != "Player", ]
+  games <- rbind(games, tmp)
+}
+head(games)
+tail(games)
+```
+
+As before, we'll save this data as a csv for later use.
+```{r}
+
+write.table(games, "games.csv", row.names = F, col.names = T, sep = ",")
+
+```
